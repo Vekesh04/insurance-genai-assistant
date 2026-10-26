@@ -1,0 +1,14 @@
+pandas>=2.2,<3.0
+numpy>=2.0,<3.0
+scikit-learn>=1.5,<2.0
+fastapi[standard]>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+streamlit>=1.39,<2.0
+langgraph>=1.0,<2.0
+openai>=2.0,<3.0
+python-dotenv>=1.0,<2.0
+pytest>=8.3,<10.0
+# Recommended semantic embeddings. The project falls back to TF-IDF if unavailable.
+# sentence-transformers>=3.0,<6.0
+# Optional advanced MCP demo only:
+# mcp>=1.0

@@ -1,0 +1,1201 @@
+hospital_id,hospital_name,city,network_status,specialty
+HOSP1000,LifeLine Health Institute 0,Ahmedabad,Network,Maternity
+HOSP1001,LifeLine Medical Center 1,Kolkata,Network,Orthopedics
+HOSP1002,Care Hospital 2,Bengaluru,Network,Multi-specialty
+HOSP1003,Care Health Institute 3,Hyderabad,Network,Oncology
+HOSP1004,City Hospital 4,Mumbai,Network,Multi-specialty
+HOSP1005,LifeLine Clinic 5,Bengaluru,Network,Multi-specialty
+HOSP1006,Unity Medical Center 6,Hyderabad,Network,Cardiology
+HOSP1007,City Health Institute 7,Kolkata,Network,General Medicine
+HOSP1008,Unity Medical Center 8,Hyderabad,Network,Multi-specialty
+HOSP1009,Sunrise Health Institute 9,Pune,Network,Cardiology
+HOSP1010,Unity Clinic 10,Bengaluru,Network,Oncology
+HOSP1011,Apollo Health Institute 11,Chennai,Network,Orthopedics
+HOSP1012,Green Medical Center 12,Pune,Non-Network,Orthopedics
+HOSP1013,Unity Health Institute 13,Pune,Non-Network,General Medicine
+HOSP1014,Unity Hospital 14,Chennai,Non-Network,Orthopedics
+HOSP1015,LifeLine Medical Center 15,Bengaluru,Network,General Medicine
+HOSP1016,Unity Clinic 16,Delhi,Network,Cardiology
+HOSP1017,Apollo Clinic 17,Jaipur,Network,Multi-specialty
+HOSP1018,LifeLine Medical Center 18,Chennai,Network,General Medicine
+HOSP1019,Unity Clinic 19,Bengaluru,Network,General Medicine
+HOSP1020,City Clinic 20,Chennai,Network,Oncology
+HOSP1021,LifeLine Hospital 21,Hyderabad,Network,Maternity
+HOSP1022,LifeLine Medical Center 22,Mumbai,Network,Cardiology
+HOSP1023,Sunrise Hospital 23,Bengaluru,Network,Multi-specialty
+HOSP1024,Apollo Clinic 24,Ahmedabad,Network,Orthopedics
+HOSP1025,Sunrise Health Institute 25,Jaipur,Network,Oncology
+HOSP1026,Apollo Clinic 26,Mumbai,Network,Oncology
+HOSP1027,Apollo Hospital 27,Mumbai,Network,Multi-specialty
+HOSP1028,Care Health Institute 28,Mumbai,Non-Network,Maternity
+HOSP1029,City Medical Center 29,Chennai,Network,Maternity
+HOSP1030,Care Medical Center 30,Bengaluru,Network,Oncology
+HOSP1031,Metro Hospital 31,Kochi,Network,Multi-specialty
+HOSP1032,LifeLine Health Institute 32,Mumbai,Non-Network,General Medicine
+HOSP1033,City Clinic 33,Kochi,Network,Cardiology
+HOSP1034,LifeLine Health Institute 34,Bengaluru,Network,Orthopedics
+HOSP1035,Metro Clinic 35,Kolkata,Network,Maternity
+HOSP1036,Green Health Institute 36,Kochi,Network,General Medicine
+HOSP1037,Sunrise Health Institute 37,Delhi,Network,Multi-specialty
+HOSP1038,LifeLine Clinic 38,Kolkata,Network,Multi-specialty
+HOSP1039,City Hospital 39,Pune,Network,Oncology
+HOSP1040,Care Health Institute 40,Kochi,Network,Oncology
+HOSP1041,Green Clinic 41,Bengaluru,Non-Network,Cardiology
+HOSP1042,Care Health Institute 42,Pune,Non-Network,Oncology
+HOSP1043,Unity Clinic 43,Chennai,Network,General Medicine
+HOSP1044,Metro Health Institute 44,Hyderabad,Network,Multi-specialty
+HOSP1045,Care Medical Center 45,Ahmedabad,Network,Maternity
+HOSP1046,Unity Hospital 46,Hyderabad,Network,Cardiology
+HOSP1047,Apollo Medical Center 47,Hyderabad,Non-Network,General Medicine
+HOSP1048,Metro Health Institute 48,Kolkata,Network,Multi-specialty
+HOSP1049,Unity Clinic 49,Jaipur,Network,Multi-specialty
+HOSP1050,Green Health Institute 50,Delhi,Network,Oncology
+HOSP1051,Sunrise Medical Center 51,Kolkata,Network,Cardiology
+HOSP1052,LifeLine Health Institute 52,Hyderabad,Network,Cardiology
+HOSP1053,Apollo Hospital 53,Bengaluru,Network,Maternity
+HOSP1054,LifeLine Clinic 54,Bengaluru,Network,Orthopedics
+HOSP1055,Apollo Health Institute 55,Hyderabad,Network,Oncology
+HOSP1056,City Health Institute 56,Chennai,Network,General Medicine
+HOSP1057,Apollo Health Institute 57,Pune,Network,Maternity
+HOSP1058,Green Hospital 58,Kolkata,Network,Multi-specialty
+HOSP1059,Apollo Health Institute 59,Jaipur,Network,Multi-specialty
+HOSP1060,City Medical Center 60,Mumbai,Network,Maternity
+HOSP1061,Unity Health Institute 61,Bengaluru,Network,Oncology
+HOSP1062,Apollo Medical Center 62,Bengaluru,Network,Orthopedics
+HOSP1063,Green Medical Center 63,Kolkata,Non-Network,General Medicine
+HOSP1064,Metro Medical Center 64,Chennai,Network,Orthopedics
+HOSP1065,Apollo Health Institute 65,Ahmedabad,Non-Network,Cardiology
+HOSP1066,Metro Clinic 66,Bengaluru,Network,Oncology
+HOSP1067,LifeLine Clinic 67,Ahmedabad,Network,Cardiology
+HOSP1068,Green Clinic 68,Mumbai,Network,Multi-specialty
+HOSP1069,Metro Medical Center 69,Pune,Network,Oncology
+HOSP1070,Unity Medical Center 70,Kolkata,Network,Maternity
+HOSP1071,Metro Clinic 71,Kochi,Network,General Medicine
+HOSP1072,Unity Clinic 72,Kochi,Network,Maternity
+HOSP1073,LifeLine Health Institute 73,Hyderabad,Non-Network,Cardiology
+HOSP1074,Care Hospital 74,Kochi,Network,Multi-specialty
+HOSP1075,Apollo Clinic 75,Jaipur,Network,Orthopedics
+HOSP1076,Care Medical Center 76,Bengaluru,Non-Network,Oncology
+HOSP1077,LifeLine Health Institute 77,Pune,Network,Orthopedics
+HOSP1078,Care Clinic 78,Delhi,Network,Maternity
+HOSP1079,Sunrise Health Institute 79,Mumbai,Non-Network,Cardiology
+HOSP1080,Green Hospital 80,Mumbai,Network,Multi-specialty
+HOSP1081,Sunrise Health Institute 81,Pune,Non-Network,General Medicine
+HOSP1082,City Hospital 82,Ahmedabad,Network,Orthopedics
+HOSP1083,Apollo Health Institute 83,Delhi,Non-Network,General Medicine
+HOSP1084,Green Clinic 84,Chennai,Network,Oncology
+HOSP1085,Sunrise Clinic 85,Bengaluru,Network,Multi-specialty
+HOSP1086,Apollo Hospital 86,Chennai,Network,General Medicine
+HOSP1087,Green Hospital 87,Bengaluru,Non-Network,Multi-specialty
+HOSP1088,LifeLine Clinic 88,Kochi,Network,Orthopedics
+HOSP1089,Green Clinic 89,Pune,Network,Maternity
+HOSP1090,Apollo Hospital 90,Chennai,Network,Maternity
+HOSP1091,City Health Institute 91,Delhi,Network,Orthopedics
+HOSP1092,Sunrise Hospital 92,Bengaluru,Network,Multi-specialty
+HOSP1093,Green Health Institute 93,Kolkata,Network,General Medicine
+HOSP1094,Unity Health Institute 94,Pune,Network,Cardiology
+HOSP1095,Care Hospital 95,Delhi,Non-Network,Oncology
+HOSP1096,LifeLine Health Institute 96,Mumbai,Network,Orthopedics
+HOSP1097,City Hospital 97,Bengaluru,Network,Maternity
+HOSP1098,Metro Medical Center 98,Chennai,Network,Cardiology
+HOSP1099,City Hospital 99,Pune,Network,Oncology
+HOSP1100,Sunrise Medical Center 100,Jaipur,Network,General Medicine
+HOSP1101,LifeLine Health Institute 101,Delhi,Network,Maternity
+HOSP1102,Care Medical Center 102,Kolkata,Network,General Medicine
+HOSP1103,Sunrise Hospital 103,Hyderabad,Network,Oncology
+HOSP1104,City Health Institute 104,Mumbai,Network,Orthopedics
+HOSP1105,Unity Medical Center 105,Mumbai,Non-Network,Oncology
+HOSP1106,Apollo Hospital 106,Jaipur,Network,Orthopedics
+HOSP1107,Sunrise Medical Center 107,Hyderabad,Network,Cardiology
+HOSP1108,City Hospital 108,Ahmedabad,Non-Network,Orthopedics
+HOSP1109,Sunrise Clinic 109,Mumbai,Network,Multi-specialty
+HOSP1110,Apollo Health Institute 110,Bengaluru,Network,Multi-specialty
+HOSP1111,City Hospital 111,Bengaluru,Network,Orthopedics
+HOSP1112,Metro Health Institute 112,Kolkata,Network,Cardiology
+HOSP1113,Care Hospital 113,Ahmedabad,Network,Oncology
+HOSP1114,Green Medical Center 114,Jaipur,Network,Oncology
+HOSP1115,Green Health Institute 115,Kolkata,Network,Multi-specialty
+HOSP1116,City Hospital 116,Kochi,Non-Network,General Medicine
+HOSP1117,LifeLine Clinic 117,Hyderabad,Network,Orthopedics
+HOSP1118,Unity Hospital 118,Delhi,Network,Orthopedics
+HOSP1119,Unity Hospital 119,Bengaluru,Network,General Medicine
+HOSP1120,Care Hospital 120,Kolkata,Network,Multi-specialty
+HOSP1121,City Clinic 121,Delhi,Network,Cardiology
+HOSP1122,Green Clinic 122,Kolkata,Network,General Medicine
+HOSP1123,City Hospital 123,Pune,Network,Maternity
+HOSP1124,Unity Hospital 124,Kolkata,Network,Orthopedics
+HOSP1125,City Clinic 125,Bengaluru,Network,Oncology
+HOSP1126,Care Clinic 126,Chennai,Non-Network,Maternity
+HOSP1127,Care Medical Center 127,Ahmedabad,Network,Cardiology
+HOSP1128,Care Clinic 128,Ahmedabad,Network,Oncology
+HOSP1129,Green Clinic 129,Jaipur,Non-Network,Orthopedics
+HOSP1130,LifeLine Medical Center 130,Bengaluru,Network,Oncology
+HOSP1131,Metro Medical Center 131,Jaipur,Network,Cardiology
+HOSP1132,LifeLine Medical Center 132,Ahmedabad,Network,Oncology
+HOSP1133,Apollo Medical Center 133,Kochi,Network,Maternity
+HOSP1134,Metro Medical Center 134,Bengaluru,Network,Multi-specialty
+HOSP1135,City Medical Center 135,Delhi,Network,Orthopedics
+HOSP1136,Green Medical Center 136,Hyderabad,Non-Network,Multi-specialty
+HOSP1137,LifeLine Hospital 137,Kolkata,Network,Cardiology
+HOSP1138,LifeLine Health Institute 138,Kolkata,Network,Maternity
+HOSP1139,Apollo Medical Center 139,Ahmedabad,Network,Cardiology
+HOSP1140,Care Medical Center 140,Delhi,Network,Oncology
+HOSP1141,Unity Health Institute 141,Mumbai,Network,Maternity
+HOSP1142,City Clinic 142,Delhi,Network,Orthopedics
+HOSP1143,Unity Clinic 143,Chennai,Network,Oncology
+HOSP1144,Metro Health Institute 144,Kolkata,Network,Orthopedics
+HOSP1145,LifeLine Hospital 145,Bengaluru,Network,Cardiology
+HOSP1146,Apollo Hospital 146,Kolkata,Network,General Medicine
+HOSP1147,City Health Institute 147,Ahmedabad,Network,Oncology
+HOSP1148,City Health Institute 148,Delhi,Network,Oncology
+HOSP1149,Sunrise Health Institute 149,Kochi,Network,Maternity
+HOSP1150,Unity Clinic 150,Kochi,Non-Network,General Medicine
+HOSP1151,Green Medical Center 151,Chennai,Network,Orthopedics
+HOSP1152,LifeLine Clinic 152,Ahmedabad,Non-Network,General Medicine
+HOSP1153,LifeLine Medical Center 153,Mumbai,Network,Oncology
+HOSP1154,Green Health Institute 154,Chennai,Network,Multi-specialty
+HOSP1155,Metro Medical Center 155,Kolkata,Non-Network,Maternity
+HOSP1156,Unity Hospital 156,Kolkata,Non-Network,Multi-specialty
+HOSP1157,Apollo Hospital 157,Delhi,Non-Network,Multi-specialty
+HOSP1158,City Medical Center 158,Ahmedabad,Network,Oncology
+HOSP1159,LifeLine Health Institute 159,Chennai,Network,Multi-specialty
+HOSP1160,Apollo Medical Center 160,Chennai,Network,Maternity
+HOSP1161,Sunrise Medical Center 161,Jaipur,Non-Network,Orthopedics
+HOSP1162,Unity Clinic 162,Chennai,Network,Oncology
+HOSP1163,City Health Institute 163,Pune,Non-Network,General Medicine
+HOSP1164,City Clinic 164,Bengaluru,Network,Cardiology
+HOSP1165,City Medical Center 165,Mumbai,Network,Multi-specialty
+HOSP1166,LifeLine Clinic 166,Chennai,Non-Network,General Medicine
+HOSP1167,Apollo Hospital 167,Jaipur,Network,Oncology
+HOSP1168,Sunrise Medical Center 168,Kochi,Non-Network,General Medicine
+HOSP1169,Unity Clinic 169,Delhi,Network,Maternity
+HOSP1170,Green Health Institute 170,Hyderabad,Network,Oncology
+HOSP1171,LifeLine Health Institute 171,Hyderabad,Network,Maternity
+HOSP1172,Care Clinic 172,Kolkata,Network,Multi-specialty
+HOSP1173,LifeLine Hospital 173,Kochi,Network,Orthopedics
+HOSP1174,LifeLine Clinic 174,Mumbai,Network,Maternity
+HOSP1175,Care Health Institute 175,Delhi,Network,Maternity
+HOSP1176,City Medical Center 176,Kochi,Non-Network,Oncology
+HOSP1177,Unity Medical Center 177,Kolkata,Non-Network,Maternity
+HOSP1178,Care Medical Center 178,Ahmedabad,Network,Oncology
+HOSP1179,Sunrise Medical Center 179,Jaipur,Network,Oncology
+HOSP1180,Unity Medical Center 180,Hyderabad,Network,Multi-specialty
+HOSP1181,Unity Hospital 181,Mumbai,Non-Network,Oncology
+HOSP1182,Care Medical Center 182,Jaipur,Network,Multi-specialty
+HOSP1183,Metro Hospital 183,Mumbai,Network,Multi-specialty
+HOSP1184,City Health Institute 184,Chennai,Network,Maternity
+HOSP1185,Green Hospital 185,Kochi,Network,Multi-specialty
+HOSP1186,Apollo Hospital 186,Mumbai,Network,Oncology
+HOSP1187,Care Medical Center 187,Ahmedabad,Network,Maternity
+HOSP1188,Metro Hospital 188,Pune,Network,Cardiology
+HOSP1189,Sunrise Clinic 189,Pune,Network,Maternity
+HOSP1190,Sunrise Health Institute 190,Mumbai,Network,Orthopedics
+HOSP1191,Green Health Institute 191,Hyderabad,Network,Orthopedics
+HOSP1192,Metro Clinic 192,Kolkata,Non-Network,Multi-specialty
+HOSP1193,Apollo Health Institute 193,Hyderabad,Non-Network,General Medicine
+HOSP1194,Apollo Medical Center 194,Ahmedabad,Network,Cardiology
+HOSP1195,City Medical Center 195,Jaipur,Non-Network,Multi-specialty
+HOSP1196,Care Medical Center 196,Mumbai,Network,Maternity
+HOSP1197,Metro Clinic 197,Jaipur,Network,Cardiology
+HOSP1198,Care Medical Center 198,Pune,Network,Orthopedics
+HOSP1199,Apollo Medical Center 199,Jaipur,Non-Network,Cardiology
+HOSP1200,Metro Medical Center 200,Ahmedabad,Network,General Medicine
+HOSP1201,LifeLine Medical Center 201,Kochi,Non-Network,Oncology
+HOSP1202,Apollo Medical Center 202,Pune,Non-Network,Oncology
+HOSP1203,LifeLine Hospital 203,Hyderabad,Network,Cardiology
+HOSP1204,City Hospital 204,Hyderabad,Network,General Medicine
+HOSP1205,Metro Medical Center 205,Ahmedabad,Network,Maternity
+HOSP1206,Green Health Institute 206,Jaipur,Network,Cardiology
+HOSP1207,City Medical Center 207,Mumbai,Network,Oncology
+HOSP1208,City Medical Center 208,Pune,Network,Maternity
+HOSP1209,LifeLine Hospital 209,Mumbai,Network,Multi-specialty
+HOSP1210,Green Health Institute 210,Kochi,Non-Network,Maternity
+HOSP1211,Care Hospital 211,Jaipur,Network,General Medicine
+HOSP1212,Care Hospital 212,Hyderabad,Network,Multi-specialty
+HOSP1213,Unity Clinic 213,Chennai,Non-Network,Oncology
+HOSP1214,Care Hospital 214,Delhi,Network,Cardiology
+HOSP1215,City Medical Center 215,Pune,Non-Network,Orthopedics
+HOSP1216,Green Clinic 216,Mumbai,Network,Maternity
+HOSP1217,Sunrise Medical Center 217,Jaipur,Network,General Medicine
+HOSP1218,Apollo Health Institute 218,Kolkata,Network,Orthopedics
+HOSP1219,City Health Institute 219,Ahmedabad,Network,Orthopedics
+HOSP1220,Care Medical Center 220,Ahmedabad,Network,Cardiology
+HOSP1221,Apollo Clinic 221,Kochi,Network,Maternity
+HOSP1222,LifeLine Health Institute 222,Hyderabad,Network,Cardiology
+HOSP1223,Metro Clinic 223,Chennai,Non-Network,General Medicine
+HOSP1224,LifeLine Health Institute 224,Ahmedabad,Non-Network,Multi-specialty
+HOSP1225,LifeLine Hospital 225,Kochi,Network,Multi-specialty
+HOSP1226,Green Medical Center 226,Ahmedabad,Network,Orthopedics
+HOSP1227,Green Health Institute 227,Bengaluru,Network,Maternity
+HOSP1228,Care Health Institute 228,Chennai,Network,Orthopedics
+HOSP1229,Sunrise Medical Center 229,Jaipur,Network,Cardiology
+HOSP1230,City Hospital 230,Kochi,Network,Oncology
+HOSP1231,Unity Health Institute 231,Delhi,Network,Orthopedics
+HOSP1232,LifeLine Medical Center 232,Mumbai,Non-Network,Cardiology
+HOSP1233,Green Medical Center 233,Delhi,Network,Orthopedics
+HOSP1234,Unity Medical Center 234,Mumbai,Network,Oncology
+HOSP1235,Unity Health Institute 235,Chennai,Network,Orthopedics
+HOSP1236,Unity Clinic 236,Hyderabad,Network,Orthopedics
+HOSP1237,Apollo Medical Center 237,Bengaluru,Network,General Medicine
+HOSP1238,Apollo Clinic 238,Kolkata,Network,Orthopedics
+HOSP1239,Care Hospital 239,Bengaluru,Non-Network,Cardiology
+HOSP1240,LifeLine Health Institute 240,Kochi,Non-Network,Oncology
+HOSP1241,Green Health Institute 241,Bengaluru,Network,Oncology
+HOSP1242,Metro Hospital 242,Bengaluru,Non-Network,General Medicine
+HOSP1243,Metro Medical Center 243,Bengaluru,Non-Network,Oncology
+HOSP1244,Apollo Clinic 244,Pune,Network,Multi-specialty
+HOSP1245,City Hospital 245,Hyderabad,Network,General Medicine
+HOSP1246,LifeLine Health Institute 246,Jaipur,Network,Cardiology
+HOSP1247,Metro Medical Center 247,Hyderabad,Network,Multi-specialty
+HOSP1248,Green Medical Center 248,Delhi,Network,Maternity
+HOSP1249,LifeLine Health Institute 249,Kochi,Network,Oncology
+HOSP1250,Apollo Clinic 250,Kochi,Network,Multi-specialty
+HOSP1251,Care Clinic 251,Mumbai,Non-Network,General Medicine
+HOSP1252,City Clinic 252,Delhi,Network,Cardiology
+HOSP1253,Sunrise Medical Center 253,Jaipur,Network,General Medicine
+HOSP1254,City Medical Center 254,Pune,Network,Maternity
+HOSP1255,Green Medical Center 255,Bengaluru,Network,Orthopedics
+HOSP1256,Apollo Medical Center 256,Kochi,Network,Multi-specialty
+HOSP1257,City Hospital 257,Bengaluru,Network,Orthopedics
+HOSP1258,Metro Hospital 258,Mumbai,Network,Oncology
+HOSP1259,Sunrise Clinic 259,Ahmedabad,Network,Cardiology
+HOSP1260,Green Hospital 260,Bengaluru,Non-Network,Cardiology
+HOSP1261,Green Clinic 261,Chennai,Network,Cardiology
+HOSP1262,Sunrise Clinic 262,Ahmedabad,Non-Network,Maternity
+HOSP1263,Unity Hospital 263,Chennai,Network,Oncology
+HOSP1264,LifeLine Medical Center 264,Hyderabad,Network,Oncology
+HOSP1265,Apollo Health Institute 265,Delhi,Network,Orthopedics
+HOSP1266,City Medical Center 266,Kolkata,Non-Network,Orthopedics
+HOSP1267,Green Hospital 267,Delhi,Network,General Medicine
+HOSP1268,Metro Medical Center 268,Chennai,Network,Multi-specialty
+HOSP1269,LifeLine Clinic 269,Chennai,Network,General Medicine
+HOSP1270,Metro Hospital 270,Jaipur,Network,Multi-specialty
+HOSP1271,Care Hospital 271,Kolkata,Network,Oncology
+HOSP1272,Sunrise Hospital 272,Pune,Network,General Medicine
+HOSP1273,Sunrise Hospital 273,Hyderabad,Network,Multi-specialty
+HOSP1274,LifeLine Clinic 274,Bengaluru,Non-Network,Maternity
+HOSP1275,Sunrise Medical Center 275,Kolkata,Network,Maternity
+HOSP1276,Sunrise Medical Center 276,Mumbai,Network,Maternity
+HOSP1277,Care Clinic 277,Chennai,Network,Oncology
+HOSP1278,Metro Health Institute 278,Chennai,Network,General Medicine
+HOSP1279,Care Health Institute 279,Kolkata,Network,Orthopedics
+HOSP1280,Green Clinic 280,Delhi,Network,Multi-specialty
+HOSP1281,Sunrise Hospital 281,Delhi,Non-Network,General Medicine
+HOSP1282,Green Health Institute 282,Bengaluru,Network,Multi-specialty
+HOSP1283,Unity Medical Center 283,Delhi,Network,Oncology
+HOSP1284,LifeLine Clinic 284,Chennai,Non-Network,Oncology
+HOSP1285,Green Hospital 285,Mumbai,Network,Maternity
+HOSP1286,Unity Medical Center 286,Hyderabad,Network,Oncology
+HOSP1287,Unity Clinic 287,Delhi,Network,Cardiology
+HOSP1288,Metro Health Institute 288,Bengaluru,Non-Network,Maternity
+HOSP1289,Care Health Institute 289,Chennai,Network,Maternity
+HOSP1290,City Clinic 290,Mumbai,Network,Orthopedics
+HOSP1291,Metro Clinic 291,Chennai,Non-Network,Maternity
+HOSP1292,Sunrise Hospital 292,Chennai,Network,Orthopedics
+HOSP1293,Unity Medical Center 293,Hyderabad,Network,Cardiology
+HOSP1294,Green Medical Center 294,Kolkata,Non-Network,Multi-specialty
+HOSP1295,Sunrise Hospital 295,Jaipur,Network,Cardiology
+HOSP1296,Sunrise Clinic 296,Jaipur,Network,Multi-specialty
+HOSP1297,Metro Health Institute 297,Delhi,Network,Maternity
+HOSP1298,City Health Institute 298,Jaipur,Network,Oncology
+HOSP1299,Unity Clinic 299,Chennai,Network,Cardiology
+HOSP1300,City Hospital 300,Pune,Network,Multi-specialty
+HOSP1301,Care Health Institute 301,Hyderabad,Network,General Medicine
+HOSP1302,City Medical Center 302,Mumbai,Network,Oncology
+HOSP1303,Unity Hospital 303,Bengaluru,Network,General Medicine
+HOSP1304,City Health Institute 304,Delhi,Network,Oncology
+HOSP1305,Apollo Hospital 305,Delhi,Non-Network,Oncology
+HOSP1306,City Health Institute 306,Chennai,Network,Multi-specialty
+HOSP1307,Metro Hospital 307,Pune,Network,Maternity
+HOSP1308,Care Medical Center 308,Pune,Network,Multi-specialty
+HOSP1309,Care Clinic 309,Kolkata,Non-Network,Oncology
+HOSP1310,Sunrise Hospital 310,Jaipur,Network,General Medicine
+HOSP1311,City Hospital 311,Kolkata,Network,Maternity
+HOSP1312,Metro Clinic 312,Kochi,Network,Multi-specialty
+HOSP1313,Metro Health Institute 313,Kochi,Network,Multi-specialty
+HOSP1314,Green Clinic 314,Pune,Non-Network,Orthopedics
+HOSP1315,Apollo Hospital 315,Mumbai,Network,Cardiology
+HOSP1316,Care Clinic 316,Hyderabad,Network,Multi-specialty
+HOSP1317,Care Medical Center 317,Mumbai,Non-Network,Maternity
+HOSP1318,Sunrise Hospital 318,Hyderabad,Network,Orthopedics
+HOSP1319,Sunrise Hospital 319,Kolkata,Network,Orthopedics
+HOSP1320,LifeLine Medical Center 320,Bengaluru,Network,Maternity
+HOSP1321,Apollo Health Institute 321,Chennai,Non-Network,General Medicine
+HOSP1322,Care Clinic 322,Chennai,Network,Orthopedics
+HOSP1323,Care Hospital 323,Jaipur,Network,Cardiology
+HOSP1324,Sunrise Health Institute 324,Pune,Network,Oncology
+HOSP1325,Unity Medical Center 325,Chennai,Non-Network,Orthopedics
+HOSP1326,LifeLine Health Institute 326,Delhi,Network,Oncology
+HOSP1327,Unity Clinic 327,Hyderabad,Network,Cardiology
+HOSP1328,Sunrise Health Institute 328,Chennai,Network,Cardiology
+HOSP1329,Sunrise Clinic 329,Chennai,Network,General Medicine
+HOSP1330,Metro Health Institute 330,Kochi,Network,Oncology
+HOSP1331,LifeLine Health Institute 331,Jaipur,Network,Oncology
+HOSP1332,Unity Clinic 332,Ahmedabad,Network,General Medicine
+HOSP1333,Green Health Institute 333,Mumbai,Network,Cardiology
+HOSP1334,Apollo Hospital 334,Pune,Network,Orthopedics
+HOSP1335,Unity Medical Center 335,Mumbai,Network,Oncology
+HOSP1336,Metro Hospital 336,Jaipur,Non-Network,Orthopedics
+HOSP1337,Unity Hospital 337,Pune,Network,Maternity
+HOSP1338,Sunrise Medical Center 338,Bengaluru,Network,Orthopedics
+HOSP1339,LifeLine Health Institute 339,Chennai,Network,Multi-specialty
+HOSP1340,Unity Clinic 340,Chennai,Network,Cardiology
+HOSP1341,Unity Medical Center 341,Delhi,Network,Maternity
+HOSP1342,Sunrise Health Institute 342,Delhi,Network,Multi-specialty
+HOSP1343,LifeLine Medical Center 343,Chennai,Network,Oncology
+HOSP1344,Sunrise Hospital 344,Kochi,Non-Network,Maternity
+HOSP1345,LifeLine Health Institute 345,Kochi,Network,Oncology
+HOSP1346,Apollo Clinic 346,Kolkata,Network,Multi-specialty
+HOSP1347,LifeLine Health Institute 347,Kolkata,Non-Network,Maternity
+HOSP1348,Metro Hospital 348,Delhi,Network,Multi-specialty
+HOSP1349,Unity Health Institute 349,Delhi,Non-Network,Oncology
+HOSP1350,Care Hospital 350,Mumbai,Network,Cardiology
+HOSP1351,Care Medical Center 351,Kolkata,Network,Orthopedics
+HOSP1352,City Health Institute 352,Kolkata,Network,Orthopedics
+HOSP1353,Metro Clinic 353,Bengaluru,Network,Cardiology
+HOSP1354,Sunrise Medical Center 354,Chennai,Network,Cardiology
+HOSP1355,Metro Hospital 355,Mumbai,Network,Oncology
+HOSP1356,LifeLine Medical Center 356,Hyderabad,Network,Orthopedics
+HOSP1357,Metro Clinic 357,Mumbai,Network,Cardiology
+HOSP1358,Apollo Medical Center 358,Mumbai,Non-Network,Orthopedics
+HOSP1359,LifeLine Hospital 359,Ahmedabad,Non-Network,Cardiology
+HOSP1360,Metro Hospital 360,Ahmedabad,Non-Network,Maternity
+HOSP1361,Metro Medical Center 361,Hyderabad,Network,Oncology
+HOSP1362,Apollo Clinic 362,Hyderabad,Network,Maternity
+HOSP1363,Care Clinic 363,Mumbai,Network,Orthopedics
+HOSP1364,Metro Clinic 364,Mumbai,Network,Cardiology
+HOSP1365,Apollo Clinic 365,Ahmedabad,Network,Oncology
+HOSP1366,LifeLine Clinic 366,Mumbai,Network,Multi-specialty
+HOSP1367,LifeLine Medical Center 367,Bengaluru,Network,Orthopedics
+HOSP1368,Green Hospital 368,Delhi,Network,Cardiology
+HOSP1369,City Health Institute 369,Chennai,Network,Cardiology
+HOSP1370,Care Hospital 370,Hyderabad,Network,General Medicine
+HOSP1371,Green Hospital 371,Kolkata,Network,Oncology
+HOSP1372,City Medical Center 372,Delhi,Non-Network,Maternity
+HOSP1373,Metro Hospital 373,Jaipur,Network,Maternity
+HOSP1374,Green Clinic 374,Jaipur,Network,Oncology
+HOSP1375,Care Medical Center 375,Ahmedabad,Non-Network,Oncology
+HOSP1376,Metro Clinic 376,Pune,Network,Orthopedics
+HOSP1377,Care Medical Center 377,Chennai,Network,Cardiology
+HOSP1378,Green Medical Center 378,Ahmedabad,Network,Cardiology
+HOSP1379,Unity Hospital 379,Delhi,Network,General Medicine
+HOSP1380,Sunrise Hospital 380,Jaipur,Network,Maternity
+HOSP1381,Unity Health Institute 381,Pune,Network,Multi-specialty
+HOSP1382,Apollo Clinic 382,Kolkata,Network,Orthopedics
+HOSP1383,Unity Health Institute 383,Ahmedabad,Non-Network,Multi-specialty
+HOSP1384,Metro Medical Center 384,Hyderabad,Network,Orthopedics
+HOSP1385,LifeLine Health Institute 385,Kochi,Network,Multi-specialty
+HOSP1386,Apollo Health Institute 386,Hyderabad,Non-Network,Oncology
+HOSP1387,City Medical Center 387,Delhi,Network,Maternity
+HOSP1388,Care Clinic 388,Jaipur,Network,Oncology
+HOSP1389,Care Medical Center 389,Bengaluru,Network,Cardiology
+HOSP1390,LifeLine Clinic 390,Delhi,Network,General Medicine
+HOSP1391,Apollo Health Institute 391,Jaipur,Non-Network,Multi-specialty
+HOSP1392,Unity Medical Center 392,Ahmedabad,Network,Orthopedics
+HOSP1393,Apollo Hospital 393,Kochi,Network,Oncology
+HOSP1394,Unity Hospital 394,Kolkata,Network,Orthopedics
+HOSP1395,City Clinic 395,Pune,Network,Multi-specialty
+HOSP1396,Care Clinic 396,Bengaluru,Network,Multi-specialty
+HOSP1397,Green Health Institute 397,Ahmedabad,Network,Cardiology
+HOSP1398,City Hospital 398,Delhi,Network,Oncology
+HOSP1399,Apollo Medical Center 399,Pune,Network,Cardiology
+HOSP1400,Unity Hospital 400,Mumbai,Network,Maternity
+HOSP1401,Unity Medical Center 401,Kolkata,Non-Network,General Medicine
+HOSP1402,City Clinic 402,Chennai,Network,Maternity
+HOSP1403,City Medical Center 403,Bengaluru,Non-Network,Orthopedics
+HOSP1404,Unity Hospital 404,Ahmedabad,Network,Maternity
+HOSP1405,Metro Medical Center 405,Kolkata,Network,Cardiology
+HOSP1406,Apollo Clinic 406,Ahmedabad,Non-Network,Maternity
+HOSP1407,Care Hospital 407,Bengaluru,Network,Cardiology
+HOSP1408,Apollo Health Institute 408,Ahmedabad,Network,Multi-specialty
+HOSP1409,Apollo Health Institute 409,Mumbai,Network,Multi-specialty
+HOSP1410,Sunrise Medical Center 410,Pune,Non-Network,General Medicine
+HOSP1411,Green Health Institute 411,Mumbai,Network,Maternity
+HOSP1412,Apollo Clinic 412,Mumbai,Network,Multi-specialty
+HOSP1413,Sunrise Medical Center 413,Mumbai,Network,Orthopedics
+HOSP1414,Sunrise Health Institute 414,Delhi,Non-Network,General Medicine
+HOSP1415,Metro Health Institute 415,Hyderabad,Network,Orthopedics
+HOSP1416,Green Hospital 416,Kochi,Network,Cardiology
+HOSP1417,Metro Clinic 417,Hyderabad,Network,Multi-specialty
+HOSP1418,Sunrise Health Institute 418,Delhi,Non-Network,Multi-specialty
+HOSP1419,City Health Institute 419,Mumbai,Network,General Medicine
+HOSP1420,Care Clinic 420,Kolkata,Non-Network,Orthopedics
+HOSP1421,LifeLine Health Institute 421,Delhi,Network,Orthopedics
+HOSP1422,Unity Clinic 422,Kolkata,Network,Orthopedics
+HOSP1423,Care Hospital 423,Kochi,Network,Multi-specialty
+HOSP1424,Unity Hospital 424,Pune,Network,General Medicine
+HOSP1425,Apollo Medical Center 425,Hyderabad,Network,Multi-specialty
+HOSP1426,Sunrise Medical Center 426,Bengaluru,Network,Cardiology
+HOSP1427,Green Clinic 427,Jaipur,Network,General Medicine
+HOSP1428,LifeLine Hospital 428,Ahmedabad,Network,General Medicine
+HOSP1429,LifeLine Medical Center 429,Kolkata,Network,Maternity
+HOSP1430,Apollo Hospital 430,Jaipur,Network,Maternity
+HOSP1431,Care Health Institute 431,Kochi,Non-Network,Orthopedics
+HOSP1432,City Health Institute 432,Mumbai,Network,Orthopedics
+HOSP1433,Metro Clinic 433,Jaipur,Network,Orthopedics
+HOSP1434,Metro Health Institute 434,Kochi,Non-Network,General Medicine
+HOSP1435,LifeLine Hospital 435,Chennai,Network,Cardiology
+HOSP1436,Metro Health Institute 436,Pune,Network,Cardiology
+HOSP1437,Apollo Hospital 437,Mumbai,Network,Orthopedics
+HOSP1438,LifeLine Hospital 438,Hyderabad,Network,Cardiology
+HOSP1439,LifeLine Medical Center 439,Chennai,Network,Oncology
+HOSP1440,Unity Hospital 440,Jaipur,Non-Network,General Medicine
+HOSP1441,Sunrise Hospital 441,Ahmedabad,Network,General Medicine
+HOSP1442,Green Hospital 442,Delhi,Network,Maternity
+HOSP1443,Care Health Institute 443,Chennai,Non-Network,Multi-specialty
+HOSP1444,Sunrise Health Institute 444,Mumbai,Network,Maternity
+HOSP1445,City Health Institute 445,Mumbai,Non-Network,Oncology
+HOSP1446,Metro Clinic 446,Hyderabad,Non-Network,General Medicine
+HOSP1447,City Medical Center 447,Mumbai,Non-Network,Multi-specialty
+HOSP1448,City Clinic 448,Kolkata,Non-Network,Maternity
+HOSP1449,Unity Health Institute 449,Kolkata,Network,Maternity
+HOSP1450,Sunrise Hospital 450,Pune,Network,Orthopedics
+HOSP1451,Metro Hospital 451,Pune,Network,Maternity
+HOSP1452,Sunrise Medical Center 452,Jaipur,Network,Orthopedics
+HOSP1453,Sunrise Hospital 453,Mumbai,Network,Maternity
+HOSP1454,City Clinic 454,Bengaluru,Non-Network,Oncology
+HOSP1455,Metro Medical Center 455,Kochi,Network,Cardiology
+HOSP1456,Sunrise Medical Center 456,Chennai,Non-Network,Multi-specialty
+HOSP1457,Green Health Institute 457,Chennai,Non-Network,Oncology
+HOSP1458,Metro Hospital 458,Delhi,Network,Orthopedics
+HOSP1459,Green Hospital 459,Jaipur,Network,Oncology
+HOSP1460,Unity Clinic 460,Pune,Network,Maternity
+HOSP1461,Metro Clinic 461,Kolkata,Network,Orthopedics
+HOSP1462,Metro Hospital 462,Bengaluru,Non-Network,Orthopedics
+HOSP1463,LifeLine Medical Center 463,Delhi,Network,Maternity
+HOSP1464,Green Medical Center 464,Ahmedabad,Non-Network,Oncology
+HOSP1465,LifeLine Clinic 465,Chennai,Network,Oncology
+HOSP1466,Green Medical Center 466,Bengaluru,Network,Cardiology
+HOSP1467,Sunrise Medical Center 467,Bengaluru,Non-Network,Orthopedics
+HOSP1468,Unity Medical Center 468,Pune,Network,Oncology
+HOSP1469,LifeLine Hospital 469,Delhi,Network,Maternity
+HOSP1470,Sunrise Hospital 470,Chennai,Network,General Medicine
+HOSP1471,Unity Health Institute 471,Jaipur,Network,Oncology
+HOSP1472,City Clinic 472,Ahmedabad,Network,Cardiology
+HOSP1473,LifeLine Hospital 473,Ahmedabad,Network,Cardiology
+HOSP1474,City Hospital 474,Hyderabad,Non-Network,Multi-specialty
+HOSP1475,Sunrise Medical Center 475,Jaipur,Network,General Medicine
+HOSP1476,Apollo Hospital 476,Pune,Non-Network,Multi-specialty
+HOSP1477,Green Clinic 477,Bengaluru,Non-Network,General Medicine
+HOSP1478,City Health Institute 478,Chennai,Network,Orthopedics
+HOSP1479,Sunrise Hospital 479,Jaipur,Network,Maternity
+HOSP1480,Metro Hospital 480,Kolkata,Non-Network,Maternity
+HOSP1481,Metro Health Institute 481,Ahmedabad,Non-Network,Multi-specialty
+HOSP1482,Unity Hospital 482,Delhi,Network,General Medicine
+HOSP1483,Sunrise Hospital 483,Hyderabad,Network,Cardiology
+HOSP1484,Unity Medical Center 484,Jaipur,Network,Maternity
+HOSP1485,LifeLine Medical Center 485,Kolkata,Network,Maternity
+HOSP1486,Apollo Hospital 486,Bengaluru,Non-Network,Multi-specialty
+HOSP1487,Care Hospital 487,Delhi,Network,Multi-specialty
+HOSP1488,City Hospital 488,Bengaluru,Network,Cardiology
+HOSP1489,Apollo Clinic 489,Pune,Network,Maternity
+HOSP1490,Care Hospital 490,Jaipur,Non-Network,Cardiology
+HOSP1491,Sunrise Clinic 491,Hyderabad,Network,Maternity
+HOSP1492,City Clinic 492,Kolkata,Non-Network,Orthopedics
+HOSP1493,Unity Medical Center 493,Pune,Network,Maternity
+HOSP1494,LifeLine Health Institute 494,Bengaluru,Network,Orthopedics
+HOSP1495,Metro Health Institute 495,Delhi,Network,Maternity
+HOSP1496,City Health Institute 496,Delhi,Network,Cardiology
+HOSP1497,Apollo Hospital 497,Hyderabad,Network,Multi-specialty
+HOSP1498,Sunrise Hospital 498,Kolkata,Network,Maternity
+HOSP1499,LifeLine Medical Center 499,Chennai,Network,Maternity
+HOSP1500,Care Medical Center 500,Hyderabad,Network,Multi-specialty
+HOSP1501,LifeLine Medical Center 501,Ahmedabad,Non-Network,Orthopedics
+HOSP1502,Care Medical Center 502,Kolkata,Network,Oncology
+HOSP1503,Green Medical Center 503,Kochi,Network,Orthopedics
+HOSP1504,Unity Clinic 504,Chennai,Network,Maternity
+HOSP1505,Green Health Institute 505,Bengaluru,Non-Network,Cardiology
+HOSP1506,Care Health Institute 506,Kochi,Network,Oncology
+HOSP1507,City Clinic 507,Kolkata,Network,Orthopedics
+HOSP1508,Care Clinic 508,Chennai,Non-Network,Maternity
+HOSP1509,City Hospital 509,Chennai,Network,Cardiology
+HOSP1510,Unity Medical Center 510,Jaipur,Network,General Medicine
+HOSP1511,City Health Institute 511,Mumbai,Network,Cardiology
+HOSP1512,Sunrise Clinic 512,Jaipur,Non-Network,Oncology
+HOSP1513,Unity Health Institute 513,Hyderabad,Network,Oncology
+HOSP1514,Sunrise Health Institute 514,Chennai,Network,General Medicine
+HOSP1515,Unity Health Institute 515,Kochi,Network,Oncology
+HOSP1516,Apollo Medical Center 516,Kolkata,Network,Maternity
+HOSP1517,City Clinic 517,Kochi,Network,Multi-specialty
+HOSP1518,LifeLine Health Institute 518,Jaipur,Non-Network,Multi-specialty
+HOSP1519,Care Hospital 519,Delhi,Network,Orthopedics
+HOSP1520,City Health Institute 520,Jaipur,Network,Orthopedics
+HOSP1521,Sunrise Medical Center 521,Ahmedabad,Network,General Medicine
+HOSP1522,Care Clinic 522,Kolkata,Network,Cardiology
+HOSP1523,Sunrise Health Institute 523,Pune,Network,Maternity
+HOSP1524,Green Health Institute 524,Delhi,Network,Maternity
+HOSP1525,Metro Medical Center 525,Ahmedabad,Network,Multi-specialty
+HOSP1526,Sunrise Health Institute 526,Kolkata,Network,Orthopedics
+HOSP1527,City Health Institute 527,Delhi,Network,Oncology
+HOSP1528,Apollo Health Institute 528,Bengaluru,Network,General Medicine
+HOSP1529,Green Hospital 529,Pune,Network,General Medicine
+HOSP1530,City Medical Center 530,Ahmedabad,Network,Oncology
+HOSP1531,Apollo Clinic 531,Pune,Network,General Medicine
+HOSP1532,City Clinic 532,Hyderabad,Network,Maternity
+HOSP1533,LifeLine Hospital 533,Bengaluru,Non-Network,Orthopedics
+HOSP1534,Apollo Clinic 534,Bengaluru,Network,Orthopedics
+HOSP1535,LifeLine Hospital 535,Hyderabad,Network,Orthopedics
+HOSP1536,Green Hospital 536,Pune,Network,Orthopedics
+HOSP1537,City Clinic 537,Kolkata,Network,Cardiology
+HOSP1538,LifeLine Clinic 538,Kolkata,Network,Cardiology
+HOSP1539,LifeLine Clinic 539,Pune,Network,Multi-specialty
+HOSP1540,Green Clinic 540,Mumbai,Network,Cardiology
+HOSP1541,Care Clinic 541,Ahmedabad,Network,Orthopedics
+HOSP1542,Green Health Institute 542,Ahmedabad,Network,Orthopedics
+HOSP1543,Apollo Clinic 543,Jaipur,Network,Orthopedics
+HOSP1544,Apollo Health Institute 544,Kolkata,Network,Maternity
+HOSP1545,Metro Medical Center 545,Mumbai,Network,Maternity
+HOSP1546,Unity Health Institute 546,Kochi,Network,General Medicine
+HOSP1547,City Hospital 547,Hyderabad,Non-Network,Multi-specialty
+HOSP1548,LifeLine Medical Center 548,Ahmedabad,Network,Multi-specialty
+HOSP1549,Green Health Institute 549,Ahmedabad,Network,Oncology
+HOSP1550,Apollo Health Institute 550,Pune,Non-Network,Maternity
+HOSP1551,Green Medical Center 551,Jaipur,Network,General Medicine
+HOSP1552,Green Medical Center 552,Kolkata,Non-Network,General Medicine
+HOSP1553,Metro Health Institute 553,Pune,Network,Oncology
+HOSP1554,LifeLine Health Institute 554,Hyderabad,Network,Orthopedics
+HOSP1555,City Clinic 555,Jaipur,Network,Orthopedics
+HOSP1556,Care Clinic 556,Kochi,Network,Maternity
+HOSP1557,City Clinic 557,Mumbai,Network,Maternity
+HOSP1558,City Hospital 558,Kochi,Network,Oncology
+HOSP1559,LifeLine Clinic 559,Bengaluru,Network,Oncology
+HOSP1560,Apollo Clinic 560,Jaipur,Network,Maternity
+HOSP1561,LifeLine Medical Center 561,Kolkata,Network,Multi-specialty
+HOSP1562,Metro Clinic 562,Kolkata,Network,General Medicine
+HOSP1563,Green Health Institute 563,Pune,Non-Network,Oncology
+HOSP1564,Metro Medical Center 564,Kochi,Network,General Medicine
+HOSP1565,Metro Medical Center 565,Ahmedabad,Network,Multi-specialty
+HOSP1566,Green Clinic 566,Kochi,Non-Network,Oncology
+HOSP1567,Apollo Medical Center 567,Mumbai,Non-Network,Orthopedics
+HOSP1568,Care Health Institute 568,Delhi,Network,Cardiology
+HOSP1569,Green Medical Center 569,Kochi,Network,Multi-specialty
+HOSP1570,LifeLine Medical Center 570,Bengaluru,Network,Maternity
+HOSP1571,Apollo Hospital 571,Hyderabad,Non-Network,Orthopedics
+HOSP1572,Sunrise Medical Center 572,Delhi,Network,Orthopedics
+HOSP1573,Sunrise Clinic 573,Kolkata,Non-Network,General Medicine
+HOSP1574,Care Hospital 574,Kolkata,Network,Multi-specialty
+HOSP1575,City Hospital 575,Bengaluru,Network,Oncology
+HOSP1576,Unity Medical Center 576,Hyderabad,Network,Orthopedics
+HOSP1577,Green Hospital 577,Kochi,Network,Maternity
+HOSP1578,Apollo Medical Center 578,Hyderabad,Non-Network,Maternity
+HOSP1579,Care Clinic 579,Bengaluru,Network,Cardiology
+HOSP1580,Unity Hospital 580,Pune,Network,General Medicine
+HOSP1581,Metro Clinic 581,Hyderabad,Network,Maternity
+HOSP1582,Apollo Clinic 582,Kochi,Network,Maternity
+HOSP1583,Care Medical Center 583,Mumbai,Non-Network,Maternity
+HOSP1584,Metro Medical Center 584,Jaipur,Network,General Medicine
+HOSP1585,City Medical Center 585,Hyderabad,Network,Maternity
+HOSP1586,Green Clinic 586,Ahmedabad,Network,Multi-specialty
+HOSP1587,Green Clinic 587,Chennai,Network,Multi-specialty
+HOSP1588,Unity Medical Center 588,Chennai,Non-Network,Multi-specialty
+HOSP1589,LifeLine Health Institute 589,Delhi,Network,Oncology
+HOSP1590,Metro Medical Center 590,Chennai,Non-Network,Maternity
+HOSP1591,Sunrise Hospital 591,Kolkata,Network,Orthopedics
+HOSP1592,Green Clinic 592,Bengaluru,Network,Cardiology
+HOSP1593,City Medical Center 593,Jaipur,Network,General Medicine
+HOSP1594,Sunrise Medical Center 594,Bengaluru,Non-Network,General Medicine
+HOSP1595,Green Hospital 595,Pune,Network,Multi-specialty
+HOSP1596,Metro Medical Center 596,Delhi,Network,Multi-specialty
+HOSP1597,Green Medical Center 597,Bengaluru,Network,Orthopedics
+HOSP1598,Green Clinic 598,Kolkata,Network,Oncology
+HOSP1599,Sunrise Hospital 599,Kolkata,Network,Oncology
+HOSP1600,Unity Medical Center 600,Kolkata,Network,Cardiology
+HOSP1601,City Health Institute 601,Hyderabad,Network,Maternity
+HOSP1602,City Medical Center 602,Ahmedabad,Network,Oncology
+HOSP1603,Sunrise Health Institute 603,Kochi,Non-Network,Orthopedics
+HOSP1604,LifeLine Health Institute 604,Mumbai,Network,Oncology
+HOSP1605,LifeLine Health Institute 605,Chennai,Network,General Medicine
+HOSP1606,LifeLine Hospital 606,Delhi,Network,Cardiology
+HOSP1607,Apollo Clinic 607,Kochi,Network,Maternity
+HOSP1608,Care Health Institute 608,Bengaluru,Network,Maternity
+HOSP1609,Unity Medical Center 609,Chennai,Network,Multi-specialty
+HOSP1610,Unity Clinic 610,Ahmedabad,Network,Cardiology
+HOSP1611,Apollo Hospital 611,Kochi,Non-Network,Maternity
+HOSP1612,Metro Clinic 612,Kochi,Network,Cardiology
+HOSP1613,Unity Hospital 613,Hyderabad,Network,Multi-specialty
+HOSP1614,Green Medical Center 614,Mumbai,Network,Oncology
+HOSP1615,Apollo Clinic 615,Bengaluru,Network,Multi-specialty
+HOSP1616,Metro Hospital 616,Pune,Non-Network,Oncology
+HOSP1617,City Hospital 617,Mumbai,Network,Multi-specialty
+HOSP1618,Care Clinic 618,Hyderabad,Network,Cardiology
+HOSP1619,Green Health Institute 619,Kolkata,Non-Network,General Medicine
+HOSP1620,Care Clinic 620,Hyderabad,Network,Oncology
+HOSP1621,Unity Medical Center 621,Jaipur,Network,General Medicine
+HOSP1622,Apollo Medical Center 622,Kolkata,Non-Network,Multi-specialty
+HOSP1623,City Medical Center 623,Hyderabad,Network,Cardiology
+HOSP1624,Care Hospital 624,Bengaluru,Non-Network,Oncology
+HOSP1625,LifeLine Health Institute 625,Hyderabad,Non-Network,Orthopedics
+HOSP1626,LifeLine Clinic 626,Kolkata,Network,Multi-specialty
+HOSP1627,Metro Hospital 627,Mumbai,Network,Cardiology
+HOSP1628,Green Medical Center 628,Chennai,Network,Oncology
+HOSP1629,LifeLine Clinic 629,Jaipur,Network,Oncology
+HOSP1630,City Hospital 630,Ahmedabad,Network,Oncology
+HOSP1631,Sunrise Clinic 631,Chennai,Non-Network,Oncology
+HOSP1632,Unity Clinic 632,Hyderabad,Network,Multi-specialty
+HOSP1633,City Health Institute 633,Ahmedabad,Network,Orthopedics
+HOSP1634,City Medical Center 634,Mumbai,Network,Oncology
+HOSP1635,LifeLine Health Institute 635,Hyderabad,Network,Oncology
+HOSP1636,Apollo Health Institute 636,Kolkata,Network,Oncology
+HOSP1637,Green Clinic 637,Pune,Non-Network,Oncology
+HOSP1638,Apollo Hospital 638,Bengaluru,Network,Multi-specialty
+HOSP1639,Care Hospital 639,Kochi,Non-Network,General Medicine
+HOSP1640,Metro Health Institute 640,Ahmedabad,Network,General Medicine
+HOSP1641,Green Clinic 641,Hyderabad,Network,Maternity
+HOSP1642,Apollo Medical Center 642,Jaipur,Network,Orthopedics
+HOSP1643,Care Medical Center 643,Hyderabad,Non-Network,Maternity
+HOSP1644,City Health Institute 644,Bengaluru,Network,General Medicine
+HOSP1645,Apollo Clinic 645,Chennai,Network,Maternity
+HOSP1646,Care Clinic 646,Ahmedabad,Network,Multi-specialty
+HOSP1647,City Hospital 647,Mumbai,Network,Orthopedics
+HOSP1648,Apollo Health Institute 648,Chennai,Network,Orthopedics
+HOSP1649,Unity Health Institute 649,Hyderabad,Network,Orthopedics
+HOSP1650,Green Hospital 650,Jaipur,Network,General Medicine
+HOSP1651,Metro Health Institute 651,Delhi,Network,General Medicine
+HOSP1652,City Hospital 652,Ahmedabad,Network,Orthopedics
+HOSP1653,Sunrise Medical Center 653,Ahmedabad,Network,Cardiology
+HOSP1654,Care Clinic 654,Kochi,Network,General Medicine
+HOSP1655,City Hospital 655,Chennai,Network,General Medicine
+HOSP1656,Unity Health Institute 656,Kolkata,Network,Orthopedics
+HOSP1657,Green Hospital 657,Delhi,Non-Network,Oncology
+HOSP1658,Unity Clinic 658,Jaipur,Network,Cardiology
+HOSP1659,City Medical Center 659,Delhi,Network,Maternity
+HOSP1660,LifeLine Medical Center 660,Chennai,Non-Network,Orthopedics
+HOSP1661,Sunrise Hospital 661,Jaipur,Network,Cardiology
+HOSP1662,Metro Clinic 662,Kolkata,Network,Cardiology
+HOSP1663,Unity Hospital 663,Delhi,Network,Cardiology
+HOSP1664,Unity Hospital 664,Chennai,Network,Maternity
+HOSP1665,Sunrise Health Institute 665,Delhi,Network,Orthopedics
+HOSP1666,City Clinic 666,Pune,Network,Cardiology
+HOSP1667,Unity Health Institute 667,Hyderabad,Network,Multi-specialty
+HOSP1668,Green Medical Center 668,Pune,Network,Oncology
+HOSP1669,Unity Medical Center 669,Pune,Network,Maternity
+HOSP1670,LifeLine Hospital 670,Kochi,Network,Cardiology
+HOSP1671,Apollo Medical Center 671,Bengaluru,Network,Maternity
+HOSP1672,Green Medical Center 672,Pune,Network,Maternity
+HOSP1673,Care Hospital 673,Hyderabad,Network,Orthopedics
+HOSP1674,Unity Hospital 674,Chennai,Network,Oncology
+HOSP1675,Apollo Health Institute 675,Kochi,Non-Network,Maternity
+HOSP1676,Care Clinic 676,Bengaluru,Network,Multi-specialty
+HOSP1677,Metro Clinic 677,Ahmedabad,Non-Network,Cardiology
+HOSP1678,Green Hospital 678,Delhi,Network,Multi-specialty
+HOSP1679,Sunrise Health Institute 679,Hyderabad,Network,Oncology
+HOSP1680,Apollo Medical Center 680,Delhi,Network,Maternity
+HOSP1681,Unity Hospital 681,Ahmedabad,Network,General Medicine
+HOSP1682,LifeLine Clinic 682,Kochi,Network,General Medicine
+HOSP1683,City Clinic 683,Hyderabad,Non-Network,Maternity
+HOSP1684,Unity Clinic 684,Kolkata,Network,Cardiology
+HOSP1685,LifeLine Hospital 685,Mumbai,Non-Network,Orthopedics
+HOSP1686,Green Hospital 686,Kolkata,Network,Multi-specialty
+HOSP1687,Care Health Institute 687,Kolkata,Network,General Medicine
+HOSP1688,Metro Medical Center 688,Hyderabad,Network,Orthopedics
+HOSP1689,LifeLine Hospital 689,Mumbai,Network,Orthopedics
+HOSP1690,Apollo Health Institute 690,Kochi,Non-Network,Oncology
+HOSP1691,Green Clinic 691,Hyderabad,Network,General Medicine
+HOSP1692,Green Clinic 692,Kochi,Network,Orthopedics
+HOSP1693,City Health Institute 693,Kochi,Network,Oncology
+HOSP1694,Care Hospital 694,Mumbai,Network,Orthopedics
+HOSP1695,Green Medical Center 695,Hyderabad,Network,Multi-specialty
+HOSP1696,Unity Clinic 696,Jaipur,Network,Oncology
+HOSP1697,Sunrise Hospital 697,Ahmedabad,Network,Oncology
+HOSP1698,Unity Medical Center 698,Pune,Network,Cardiology
+HOSP1699,Green Hospital 699,Bengaluru,Non-Network,General Medicine
+HOSP1700,LifeLine Medical Center 700,Hyderabad,Network,Multi-specialty
+HOSP1701,LifeLine Hospital 701,Delhi,Network,Cardiology
+HOSP1702,Care Hospital 702,Ahmedabad,Network,Maternity
+HOSP1703,Sunrise Medical Center 703,Kochi,Non-Network,Multi-specialty
+HOSP1704,Care Hospital 704,Mumbai,Network,Cardiology
+HOSP1705,Green Medical Center 705,Hyderabad,Network,Oncology
+HOSP1706,Metro Clinic 706,Mumbai,Network,Oncology
+HOSP1707,Care Hospital 707,Pune,Network,Cardiology
+HOSP1708,LifeLine Clinic 708,Kolkata,Network,Multi-specialty
+HOSP1709,Unity Clinic 709,Delhi,Network,Multi-specialty
+HOSP1710,Unity Clinic 710,Delhi,Non-Network,Maternity
+HOSP1711,Care Medical Center 711,Mumbai,Network,General Medicine
+HOSP1712,Care Health Institute 712,Hyderabad,Network,Cardiology
+HOSP1713,Sunrise Hospital 713,Jaipur,Non-Network,General Medicine
+HOSP1714,City Medical Center 714,Delhi,Network,Cardiology
+HOSP1715,Care Hospital 715,Chennai,Network,Orthopedics
+HOSP1716,Apollo Health Institute 716,Pune,Non-Network,Oncology
+HOSP1717,Care Hospital 717,Delhi,Network,Orthopedics
+HOSP1718,Green Hospital 718,Kolkata,Network,Oncology
+HOSP1719,Care Clinic 719,Mumbai,Network,Oncology
+HOSP1720,Green Hospital 720,Pune,Non-Network,General Medicine
+HOSP1721,LifeLine Hospital 721,Kolkata,Network,Oncology
+HOSP1722,Sunrise Medical Center 722,Chennai,Non-Network,Multi-specialty
+HOSP1723,Metro Medical Center 723,Kolkata,Network,Cardiology
+HOSP1724,Sunrise Clinic 724,Hyderabad,Network,Orthopedics
+HOSP1725,Unity Health Institute 725,Chennai,Network,Maternity
+HOSP1726,City Health Institute 726,Chennai,Network,Multi-specialty
+HOSP1727,City Medical Center 727,Delhi,Network,General Medicine
+HOSP1728,Metro Clinic 728,Jaipur,Network,Cardiology
+HOSP1729,Sunrise Medical Center 729,Delhi,Network,Orthopedics
+HOSP1730,Apollo Clinic 730,Jaipur,Network,Oncology
+HOSP1731,Green Clinic 731,Kochi,Network,Orthopedics
+HOSP1732,Care Health Institute 732,Jaipur,Network,Orthopedics
+HOSP1733,Metro Medical Center 733,Bengaluru,Network,Multi-specialty
+HOSP1734,Apollo Health Institute 734,Jaipur,Network,Orthopedics
+HOSP1735,Apollo Clinic 735,Delhi,Network,Oncology
+HOSP1736,Unity Clinic 736,Kolkata,Network,Maternity
+HOSP1737,Metro Hospital 737,Ahmedabad,Network,Maternity
+HOSP1738,City Clinic 738,Mumbai,Non-Network,Multi-specialty
+HOSP1739,Green Clinic 739,Hyderabad,Network,General Medicine
+HOSP1740,City Health Institute 740,Ahmedabad,Network,Maternity
+HOSP1741,Green Clinic 741,Delhi,Network,Multi-specialty
+HOSP1742,Unity Medical Center 742,Bengaluru,Network,Multi-specialty
+HOSP1743,Care Clinic 743,Pune,Network,Oncology
+HOSP1744,City Health Institute 744,Pune,Network,Maternity
+HOSP1745,Sunrise Health Institute 745,Mumbai,Non-Network,Cardiology
+HOSP1746,Apollo Hospital 746,Chennai,Non-Network,Orthopedics
+HOSP1747,Unity Hospital 747,Pune,Network,Oncology
+HOSP1748,City Health Institute 748,Kochi,Network,Multi-specialty
+HOSP1749,Metro Hospital 749,Chennai,Network,Cardiology
+HOSP1750,City Health Institute 750,Delhi,Non-Network,Multi-specialty
+HOSP1751,Apollo Hospital 751,Mumbai,Network,Orthopedics
+HOSP1752,Care Hospital 752,Ahmedabad,Network,Oncology
+HOSP1753,LifeLine Hospital 753,Chennai,Network,Orthopedics
+HOSP1754,Green Clinic 754,Chennai,Network,General Medicine
+HOSP1755,Sunrise Health Institute 755,Chennai,Network,Multi-specialty
+HOSP1756,Unity Clinic 756,Jaipur,Network,Orthopedics
+HOSP1757,Care Hospital 757,Bengaluru,Network,Oncology
+HOSP1758,Sunrise Medical Center 758,Delhi,Network,Maternity
+HOSP1759,Green Medical Center 759,Ahmedabad,Network,Cardiology
+HOSP1760,Metro Clinic 760,Hyderabad,Network,General Medicine
+HOSP1761,Metro Clinic 761,Bengaluru,Non-Network,General Medicine
+HOSP1762,City Health Institute 762,Pune,Network,Multi-specialty
+HOSP1763,Sunrise Clinic 763,Bengaluru,Network,Orthopedics
+HOSP1764,Metro Health Institute 764,Jaipur,Network,Oncology
+HOSP1765,Apollo Clinic 765,Pune,Network,Multi-specialty
+HOSP1766,Green Medical Center 766,Ahmedabad,Network,Cardiology
+HOSP1767,Unity Health Institute 767,Ahmedabad,Network,Multi-specialty
+HOSP1768,Green Hospital 768,Delhi,Network,Orthopedics
+HOSP1769,Metro Medical Center 769,Delhi,Network,Maternity
+HOSP1770,Green Hospital 770,Kochi,Network,General Medicine
+HOSP1771,Unity Clinic 771,Pune,Network,Cardiology
+HOSP1772,Care Medical Center 772,Kolkata,Network,Oncology
+HOSP1773,Apollo Medical Center 773,Jaipur,Network,Cardiology
+HOSP1774,City Medical Center 774,Mumbai,Network,Orthopedics
+HOSP1775,Unity Medical Center 775,Delhi,Network,Multi-specialty
+HOSP1776,Sunrise Hospital 776,Hyderabad,Non-Network,Cardiology
+HOSP1777,City Hospital 777,Ahmedabad,Network,General Medicine
+HOSP1778,Metro Clinic 778,Hyderabad,Network,Cardiology
+HOSP1779,Care Medical Center 779,Kolkata,Network,Orthopedics
+HOSP1780,Care Medical Center 780,Ahmedabad,Network,Multi-specialty
+HOSP1781,Care Hospital 781,Delhi,Network,Orthopedics
+HOSP1782,Metro Medical Center 782,Kochi,Network,Cardiology
+HOSP1783,City Clinic 783,Mumbai,Network,Cardiology
+HOSP1784,Apollo Health Institute 784,Delhi,Network,Orthopedics
+HOSP1785,LifeLine Clinic 785,Kochi,Non-Network,Oncology
+HOSP1786,LifeLine Clinic 786,Kochi,Network,General Medicine
+HOSP1787,LifeLine Hospital 787,Delhi,Network,General Medicine
+HOSP1788,Unity Hospital 788,Chennai,Network,Orthopedics
+HOSP1789,Metro Health Institute 789,Delhi,Network,Cardiology
+HOSP1790,Sunrise Hospital 790,Hyderabad,Network,General Medicine
+HOSP1791,City Medical Center 791,Kochi,Network,Oncology
+HOSP1792,Green Hospital 792,Bengaluru,Network,Oncology
+HOSP1793,Metro Hospital 793,Bengaluru,Non-Network,Cardiology
+HOSP1794,LifeLine Medical Center 794,Kolkata,Network,Orthopedics
+HOSP1795,LifeLine Hospital 795,Chennai,Network,Maternity
+HOSP1796,LifeLine Medical Center 796,Kolkata,Network,Orthopedics
+HOSP1797,Sunrise Hospital 797,Kochi,Non-Network,General Medicine
+HOSP1798,Green Health Institute 798,Kochi,Network,Cardiology
+HOSP1799,Care Hospital 799,Mumbai,Network,Oncology
+HOSP1800,Unity Medical Center 800,Jaipur,Network,Orthopedics
+HOSP1801,Apollo Hospital 801,Bengaluru,Network,Orthopedics
+HOSP1802,Green Health Institute 802,Kochi,Network,General Medicine
+HOSP1803,Unity Health Institute 803,Jaipur,Network,Maternity
+HOSP1804,Care Medical Center 804,Ahmedabad,Network,Orthopedics
+HOSP1805,Sunrise Clinic 805,Bengaluru,Network,Maternity
+HOSP1806,Care Health Institute 806,Kolkata,Network,Cardiology
+HOSP1807,LifeLine Hospital 807,Jaipur,Network,Orthopedics
+HOSP1808,Apollo Health Institute 808,Jaipur,Non-Network,Maternity
+HOSP1809,Apollo Hospital 809,Ahmedabad,Network,Multi-specialty
+HOSP1810,LifeLine Hospital 810,Mumbai,Network,Multi-specialty
+HOSP1811,LifeLine Health Institute 811,Pune,Network,Multi-specialty
+HOSP1812,Metro Medical Center 812,Hyderabad,Non-Network,Cardiology
+HOSP1813,Sunrise Medical Center 813,Pune,Network,Oncology
+HOSP1814,Metro Hospital 814,Bengaluru,Network,Cardiology
+HOSP1815,Green Clinic 815,Kolkata,Network,Orthopedics
+HOSP1816,Unity Clinic 816,Jaipur,Non-Network,Cardiology
+HOSP1817,Green Hospital 817,Delhi,Network,Orthopedics
+HOSP1818,Green Health Institute 818,Pune,Network,Multi-specialty
+HOSP1819,LifeLine Medical Center 819,Delhi,Network,Orthopedics
+HOSP1820,Care Hospital 820,Chennai,Network,Cardiology
+HOSP1821,Apollo Medical Center 821,Chennai,Network,General Medicine
+HOSP1822,City Hospital 822,Jaipur,Network,Multi-specialty
+HOSP1823,Apollo Health Institute 823,Chennai,Non-Network,Oncology
+HOSP1824,Unity Hospital 824,Kolkata,Network,General Medicine
+HOSP1825,Apollo Medical Center 825,Ahmedabad,Non-Network,Multi-specialty
+HOSP1826,Unity Health Institute 826,Pune,Network,Cardiology
+HOSP1827,Apollo Health Institute 827,Hyderabad,Network,Maternity
+HOSP1828,Green Health Institute 828,Pune,Network,Maternity
+HOSP1829,Unity Clinic 829,Bengaluru,Network,Maternity
+HOSP1830,Unity Health Institute 830,Hyderabad,Non-Network,Maternity
+HOSP1831,Sunrise Hospital 831,Hyderabad,Non-Network,General Medicine
+HOSP1832,Care Hospital 832,Kochi,Network,Cardiology
+HOSP1833,Unity Health Institute 833,Chennai,Network,Oncology
+HOSP1834,Metro Clinic 834,Bengaluru,Network,General Medicine
+HOSP1835,Metro Hospital 835,Bengaluru,Network,Oncology
+HOSP1836,Green Health Institute 836,Hyderabad,Network,Maternity
+HOSP1837,Green Health Institute 837,Jaipur,Network,Cardiology
+HOSP1838,Metro Medical Center 838,Chennai,Network,Orthopedics
+HOSP1839,Unity Clinic 839,Chennai,Network,Oncology
+HOSP1840,Care Clinic 840,Delhi,Network,Oncology
+HOSP1841,Apollo Medical Center 841,Ahmedabad,Network,General Medicine
+HOSP1842,Care Hospital 842,Kochi,Network,Multi-specialty
+HOSP1843,City Hospital 843,Pune,Non-Network,Orthopedics
+HOSP1844,Care Clinic 844,Kochi,Network,Orthopedics
+HOSP1845,Green Clinic 845,Hyderabad,Network,General Medicine
+HOSP1846,Metro Clinic 846,Ahmedabad,Network,Oncology
+HOSP1847,Unity Medical Center 847,Kochi,Network,Multi-specialty
+HOSP1848,Green Medical Center 848,Kochi,Network,Orthopedics
+HOSP1849,Sunrise Clinic 849,Jaipur,Non-Network,Cardiology
+HOSP1850,City Health Institute 850,Mumbai,Network,Multi-specialty
+HOSP1851,Apollo Clinic 851,Ahmedabad,Network,General Medicine
+HOSP1852,Apollo Medical Center 852,Kochi,Network,Cardiology
+HOSP1853,Apollo Hospital 853,Pune,Non-Network,Cardiology
+HOSP1854,Metro Health Institute 854,Bengaluru,Network,Maternity
+HOSP1855,Green Medical Center 855,Delhi,Network,Oncology
+HOSP1856,Unity Clinic 856,Chennai,Network,Maternity
+HOSP1857,City Clinic 857,Jaipur,Network,Oncology
+HOSP1858,Green Health Institute 858,Bengaluru,Non-Network,General Medicine
+HOSP1859,Metro Clinic 859,Bengaluru,Network,Cardiology
+HOSP1860,Metro Medical Center 860,Ahmedabad,Network,Orthopedics
+HOSP1861,Apollo Medical Center 861,Kolkata,Network,Orthopedics
+HOSP1862,City Medical Center 862,Mumbai,Network,Maternity
+HOSP1863,Care Health Institute 863,Pune,Non-Network,Oncology
+HOSP1864,Green Hospital 864,Mumbai,Network,Maternity
+HOSP1865,Care Clinic 865,Hyderabad,Network,Maternity
+HOSP1866,Unity Medical Center 866,Delhi,Network,Multi-specialty
+HOSP1867,Care Health Institute 867,Kolkata,Non-Network,Oncology
+HOSP1868,LifeLine Medical Center 868,Bengaluru,Network,Cardiology
+HOSP1869,Unity Hospital 869,Kochi,Network,Orthopedics
+HOSP1870,City Clinic 870,Hyderabad,Network,Cardiology
+HOSP1871,Apollo Hospital 871,Mumbai,Network,Orthopedics
+HOSP1872,LifeLine Hospital 872,Ahmedabad,Network,Orthopedics
+HOSP1873,Care Medical Center 873,Delhi,Network,Cardiology
+HOSP1874,Care Health Institute 874,Kolkata,Network,Maternity
+HOSP1875,Sunrise Hospital 875,Kochi,Network,General Medicine
+HOSP1876,Green Clinic 876,Kolkata,Network,Multi-specialty
+HOSP1877,Care Clinic 877,Mumbai,Non-Network,General Medicine
+HOSP1878,Apollo Hospital 878,Delhi,Network,Orthopedics
+HOSP1879,Unity Clinic 879,Kochi,Network,Maternity
+HOSP1880,Care Medical Center 880,Pune,Network,Oncology
+HOSP1881,LifeLine Hospital 881,Kochi,Network,Oncology
+HOSP1882,Green Medical Center 882,Mumbai,Network,Cardiology
+HOSP1883,Apollo Medical Center 883,Delhi,Network,Maternity
+HOSP1884,Care Health Institute 884,Jaipur,Network,Cardiology
+HOSP1885,Green Health Institute 885,Delhi,Network,General Medicine
+HOSP1886,City Medical Center 886,Kolkata,Network,Cardiology
+HOSP1887,Metro Hospital 887,Kolkata,Network,Multi-specialty
+HOSP1888,Unity Hospital 888,Chennai,Network,Maternity
+HOSP1889,Apollo Clinic 889,Hyderabad,Non-Network,Cardiology
+HOSP1890,Green Clinic 890,Pune,Network,General Medicine
+HOSP1891,LifeLine Health Institute 891,Kochi,Network,General Medicine
+HOSP1892,Care Health Institute 892,Mumbai,Network,Multi-specialty
+HOSP1893,Metro Hospital 893,Bengaluru,Network,General Medicine
+HOSP1894,Unity Medical Center 894,Ahmedabad,Network,Multi-specialty
+HOSP1895,Apollo Health Institute 895,Kochi,Network,Oncology
+HOSP1896,Green Medical Center 896,Hyderabad,Network,Orthopedics
+HOSP1897,Unity Health Institute 897,Bengaluru,Network,Orthopedics
+HOSP1898,Metro Medical Center 898,Chennai,Non-Network,Multi-specialty
+HOSP1899,Metro Health Institute 899,Pune,Network,Maternity
+HOSP1900,Green Hospital 900,Chennai,Network,Orthopedics
+HOSP1901,Care Health Institute 901,Delhi,Non-Network,Maternity
+HOSP1902,Apollo Health Institute 902,Ahmedabad,Network,Orthopedics
+HOSP1903,Green Health Institute 903,Kochi,Network,Maternity
+HOSP1904,Care Health Institute 904,Jaipur,Network,Multi-specialty
+HOSP1905,Metro Medical Center 905,Kolkata,Network,Oncology
+HOSP1906,City Hospital 906,Delhi,Network,General Medicine
+HOSP1907,LifeLine Hospital 907,Kochi,Non-Network,Oncology
+HOSP1908,Sunrise Hospital 908,Bengaluru,Network,Cardiology
+HOSP1909,City Medical Center 909,Jaipur,Network,Multi-specialty
+HOSP1910,Apollo Hospital 910,Mumbai,Network,General Medicine
+HOSP1911,Apollo Hospital 911,Kochi,Network,Multi-specialty
+HOSP1912,Unity Hospital 912,Pune,Network,Cardiology
+HOSP1913,Metro Hospital 913,Kolkata,Network,Cardiology
+HOSP1914,Metro Health Institute 914,Delhi,Non-Network,Oncology
+HOSP1915,Unity Medical Center 915,Hyderabad,Non-Network,Orthopedics
+HOSP1916,Unity Clinic 916,Chennai,Network,Maternity
+HOSP1917,City Clinic 917,Pune,Network,Cardiology
+HOSP1918,Care Hospital 918,Hyderabad,Network,Maternity
+HOSP1919,Unity Hospital 919,Mumbai,Network,Oncology
+HOSP1920,Care Hospital 920,Hyderabad,Network,General Medicine
+HOSP1921,Unity Medical Center 921,Pune,Network,Cardiology
+HOSP1922,Unity Hospital 922,Bengaluru,Non-Network,Orthopedics
+HOSP1923,Apollo Health Institute 923,Kolkata,Network,Oncology
+HOSP1924,LifeLine Hospital 924,Hyderabad,Network,Orthopedics
+HOSP1925,Sunrise Medical Center 925,Mumbai,Network,Oncology
+HOSP1926,Green Hospital 926,Hyderabad,Network,General Medicine
+HOSP1927,City Health Institute 927,Ahmedabad,Network,Oncology
+HOSP1928,Unity Hospital 928,Chennai,Network,Orthopedics
+HOSP1929,Sunrise Health Institute 929,Bengaluru,Non-Network,Maternity
+HOSP1930,Sunrise Health Institute 930,Ahmedabad,Network,Cardiology
+HOSP1931,Metro Hospital 931,Kochi,Non-Network,Orthopedics
+HOSP1932,Sunrise Health Institute 932,Pune,Non-Network,Maternity
+HOSP1933,City Health Institute 933,Chennai,Network,Maternity
+HOSP1934,Metro Clinic 934,Hyderabad,Non-Network,Cardiology
+HOSP1935,Metro Clinic 935,Mumbai,Network,Oncology
+HOSP1936,Metro Medical Center 936,Bengaluru,Network,General Medicine
+HOSP1937,Metro Clinic 937,Chennai,Network,Oncology
+HOSP1938,City Clinic 938,Pune,Network,Maternity
+HOSP1939,Sunrise Clinic 939,Bengaluru,Non-Network,General Medicine
+HOSP1940,Green Medical Center 940,Chennai,Network,Maternity
+HOSP1941,Sunrise Clinic 941,Pune,Network,Maternity
+HOSP1942,Green Hospital 942,Chennai,Non-Network,General Medicine
+HOSP1943,Care Health Institute 943,Ahmedabad,Network,General Medicine
+HOSP1944,Green Medical Center 944,Bengaluru,Network,Cardiology
+HOSP1945,Unity Health Institute 945,Mumbai,Network,Multi-specialty
+HOSP1946,Sunrise Health Institute 946,Ahmedabad,Network,Orthopedics
+HOSP1947,LifeLine Hospital 947,Pune,Network,Oncology
+HOSP1948,Green Clinic 948,Jaipur,Network,Orthopedics
+HOSP1949,Care Clinic 949,Kochi,Network,Multi-specialty
+HOSP1950,Metro Hospital 950,Ahmedabad,Non-Network,Maternity
+HOSP1951,Unity Medical Center 951,Kolkata,Network,Cardiology
+HOSP1952,Care Hospital 952,Chennai,Network,Orthopedics
+HOSP1953,Apollo Medical Center 953,Pune,Non-Network,Multi-specialty
+HOSP1954,Sunrise Hospital 954,Chennai,Network,General Medicine
+HOSP1955,Sunrise Clinic 955,Jaipur,Network,General Medicine
+HOSP1956,City Health Institute 956,Chennai,Non-Network,Maternity
+HOSP1957,LifeLine Clinic 957,Ahmedabad,Network,General Medicine
+HOSP1958,Green Clinic 958,Chennai,Network,Multi-specialty
+HOSP1959,Sunrise Health Institute 959,Ahmedabad,Non-Network,Cardiology
+HOSP1960,Unity Hospital 960,Pune,Network,Multi-specialty
+HOSP1961,City Clinic 961,Kolkata,Non-Network,Maternity
+HOSP1962,Green Health Institute 962,Pune,Non-Network,Multi-specialty
+HOSP1963,Care Health Institute 963,Delhi,Network,Cardiology
+HOSP1964,LifeLine Clinic 964,Kolkata,Network,General Medicine
+HOSP1965,Care Clinic 965,Ahmedabad,Network,General Medicine
+HOSP1966,Care Medical Center 966,Kochi,Network,Maternity
+HOSP1967,Green Medical Center 967,Jaipur,Non-Network,Orthopedics
+HOSP1968,Unity Hospital 968,Ahmedabad,Non-Network,Maternity
+HOSP1969,City Clinic 969,Delhi,Network,General Medicine
+HOSP1970,Care Clinic 970,Mumbai,Network,General Medicine
+HOSP1971,Apollo Medical Center 971,Pune,Non-Network,Oncology
+HOSP1972,Sunrise Medical Center 972,Kolkata,Non-Network,Cardiology
+HOSP1973,Unity Medical Center 973,Kochi,Network,Cardiology
+HOSP1974,Green Health Institute 974,Delhi,Non-Network,Cardiology
+HOSP1975,Apollo Medical Center 975,Kolkata,Non-Network,Maternity
+HOSP1976,Apollo Hospital 976,Delhi,Network,Multi-specialty
+HOSP1977,Metro Hospital 977,Jaipur,Non-Network,Orthopedics
+HOSP1978,Metro Health Institute 978,Hyderabad,Network,Oncology
+HOSP1979,Metro Medical Center 979,Ahmedabad,Network,Maternity
+HOSP1980,Sunrise Hospital 980,Chennai,Network,Orthopedics
+HOSP1981,Green Clinic 981,Bengaluru,Network,Oncology
+HOSP1982,Unity Hospital 982,Kolkata,Non-Network,Maternity
+HOSP1983,Care Hospital 983,Jaipur,Network,Oncology
+HOSP1984,Sunrise Medical Center 984,Hyderabad,Network,Orthopedics
+HOSP1985,Unity Clinic 985,Kolkata,Non-Network,Cardiology
+HOSP1986,Unity Medical Center 986,Ahmedabad,Network,Cardiology
+HOSP1987,LifeLine Medical Center 987,Jaipur,Network,Cardiology
+HOSP1988,City Hospital 988,Delhi,Network,Maternity
+HOSP1989,Sunrise Hospital 989,Kochi,Non-Network,Orthopedics
+HOSP1990,Apollo Medical Center 990,Pune,Network,Oncology
+HOSP1991,Sunrise Clinic 991,Ahmedabad,Network,Cardiology
+HOSP1992,Care Health Institute 992,Hyderabad,Non-Network,Maternity
+HOSP1993,Metro Hospital 993,Chennai,Network,Orthopedics
+HOSP1994,Care Medical Center 994,Pune,Network,Maternity
+HOSP1995,LifeLine Clinic 995,Mumbai,Network,General Medicine
+HOSP1996,Care Medical Center 996,Mumbai,Network,Multi-specialty
+HOSP1997,Green Clinic 997,Jaipur,Non-Network,Maternity
+HOSP1998,Green Health Institute 998,Pune,Non-Network,Oncology
+HOSP1999,LifeLine Medical Center 999,Ahmedabad,Non-Network,Multi-specialty
+HOSP2000,Metro Health Institute 1000,Kochi,Network,General Medicine
+HOSP2001,City Health Institute 1001,Kochi,Non-Network,Oncology
+HOSP2002,Metro Hospital 1002,Kolkata,Network,Orthopedics
+HOSP2003,Sunrise Hospital 1003,Delhi,Network,Oncology
+HOSP2004,Green Clinic 1004,Jaipur,Network,Cardiology
+HOSP2005,Green Health Institute 1005,Pune,Network,Multi-specialty
+HOSP2006,Apollo Medical Center 1006,Hyderabad,Network,Oncology
+HOSP2007,Sunrise Hospital 1007,Bengaluru,Network,Orthopedics
+HOSP2008,Metro Health Institute 1008,Kochi,Network,Maternity
+HOSP2009,Green Hospital 1009,Pune,Non-Network,Maternity
+HOSP2010,City Clinic 1010,Chennai,Network,Cardiology
+HOSP2011,Care Clinic 1011,Bengaluru,Network,Maternity
+HOSP2012,Care Clinic 1012,Jaipur,Network,Multi-specialty
+HOSP2013,Metro Health Institute 1013,Kolkata,Network,General Medicine
+HOSP2014,Green Medical Center 1014,Bengaluru,Non-Network,Orthopedics
+HOSP2015,LifeLine Medical Center 1015,Jaipur,Network,Multi-specialty
+HOSP2016,Green Health Institute 1016,Pune,Non-Network,Multi-specialty
+HOSP2017,Apollo Health Institute 1017,Hyderabad,Network,Maternity
+HOSP2018,Sunrise Clinic 1018,Kolkata,Network,Maternity
+HOSP2019,LifeLine Clinic 1019,Hyderabad,Network,Multi-specialty
+HOSP2020,Metro Hospital 1020,Chennai,Network,Cardiology
+HOSP2021,Metro Health Institute 1021,Kolkata,Non-Network,General Medicine
+HOSP2022,Unity Medical Center 1022,Mumbai,Network,Maternity
+HOSP2023,Unity Health Institute 1023,Kochi,Non-Network,Orthopedics
+HOSP2024,Care Hospital 1024,Bengaluru,Non-Network,Orthopedics
+HOSP2025,Care Health Institute 1025,Bengaluru,Network,Orthopedics
+HOSP2026,Unity Hospital 1026,Hyderabad,Network,General Medicine
+HOSP2027,Metro Hospital 1027,Kochi,Network,Multi-specialty
+HOSP2028,City Clinic 1028,Hyderabad,Non-Network,Multi-specialty
+HOSP2029,Sunrise Clinic 1029,Chennai,Network,Cardiology
+HOSP2030,City Health Institute 1030,Kolkata,Network,Multi-specialty
+HOSP2031,Apollo Health Institute 1031,Pune,Non-Network,Orthopedics
+HOSP2032,LifeLine Health Institute 1032,Delhi,Non-Network,Cardiology
+HOSP2033,Apollo Clinic 1033,Delhi,Network,Maternity
+HOSP2034,Unity Clinic 1034,Ahmedabad,Network,Orthopedics
+HOSP2035,Care Clinic 1035,Ahmedabad,Network,Multi-specialty
+HOSP2036,Green Medical Center 1036,Mumbai,Network,Cardiology
+HOSP2037,Apollo Health Institute 1037,Pune,Network,Maternity
+HOSP2038,Metro Medical Center 1038,Pune,Non-Network,Oncology
+HOSP2039,City Hospital 1039,Pune,Network,General Medicine
+HOSP2040,Apollo Hospital 1040,Pune,Network,Oncology
+HOSP2041,Care Clinic 1041,Kochi,Non-Network,Cardiology
+HOSP2042,Metro Clinic 1042,Chennai,Network,Cardiology
+HOSP2043,Care Hospital 1043,Mumbai,Network,General Medicine
+HOSP2044,Apollo Medical Center 1044,Mumbai,Network,Maternity
+HOSP2045,Apollo Clinic 1045,Ahmedabad,Network,Orthopedics
+HOSP2046,Metro Health Institute 1046,Mumbai,Network,Cardiology
+HOSP2047,LifeLine Medical Center 1047,Ahmedabad,Non-Network,Maternity
+HOSP2048,LifeLine Hospital 1048,Jaipur,Network,Oncology
+HOSP2049,Unity Clinic 1049,Ahmedabad,Network,General Medicine
+HOSP2050,Care Health Institute 1050,Delhi,Network,Multi-specialty
+HOSP2051,Sunrise Hospital 1051,Chennai,Network,Multi-specialty
+HOSP2052,Apollo Health Institute 1052,Chennai,Non-Network,Multi-specialty
+HOSP2053,Unity Hospital 1053,Jaipur,Network,General Medicine
+HOSP2054,Sunrise Hospital 1054,Ahmedabad,Network,Cardiology
+HOSP2055,Green Medical Center 1055,Kochi,Network,Multi-specialty
+HOSP2056,LifeLine Health Institute 1056,Chennai,Network,Maternity
+HOSP2057,City Hospital 1057,Ahmedabad,Non-Network,Maternity
+HOSP2058,LifeLine Health Institute 1058,Mumbai,Network,Maternity
+HOSP2059,LifeLine Health Institute 1059,Ahmedabad,Network,General Medicine
+HOSP2060,Green Hospital 1060,Mumbai,Network,Multi-specialty
+HOSP2061,Metro Medical Center 1061,Pune,Network,Cardiology
+HOSP2062,Sunrise Clinic 1062,Hyderabad,Network,Cardiology
+HOSP2063,Sunrise Medical Center 1063,Ahmedabad,Network,General Medicine
+HOSP2064,Sunrise Hospital 1064,Ahmedabad,Network,Cardiology
+HOSP2065,Green Clinic 1065,Hyderabad,Network,General Medicine
+HOSP2066,Green Medical Center 1066,Bengaluru,Non-Network,General Medicine
+HOSP2067,Apollo Hospital 1067,Kolkata,Network,Orthopedics
+HOSP2068,Care Health Institute 1068,Delhi,Network,Multi-specialty
+HOSP2069,Unity Hospital 1069,Delhi,Network,Maternity
+HOSP2070,Care Clinic 1070,Hyderabad,Network,Oncology
+HOSP2071,Metro Hospital 1071,Mumbai,Non-Network,Oncology
+HOSP2072,Metro Health Institute 1072,Ahmedabad,Network,Orthopedics
+HOSP2073,Sunrise Hospital 1073,Jaipur,Network,Orthopedics
+HOSP2074,LifeLine Hospital 1074,Chennai,Non-Network,Oncology
+HOSP2075,Unity Medical Center 1075,Delhi,Non-Network,Maternity
+HOSP2076,Green Clinic 1076,Chennai,Network,Cardiology
+HOSP2077,Sunrise Hospital 1077,Jaipur,Network,Oncology
+HOSP2078,City Health Institute 1078,Jaipur,Network,Orthopedics
+HOSP2079,Unity Clinic 1079,Hyderabad,Network,General Medicine
+HOSP2080,City Health Institute 1080,Mumbai,Non-Network,Cardiology
+HOSP2081,Sunrise Clinic 1081,Jaipur,Network,Cardiology
+HOSP2082,Sunrise Clinic 1082,Mumbai,Network,Multi-specialty
+HOSP2083,Metro Medical Center 1083,Mumbai,Non-Network,Orthopedics
+HOSP2084,Green Clinic 1084,Delhi,Network,Maternity
+HOSP2085,LifeLine Medical Center 1085,Hyderabad,Non-Network,Oncology
+HOSP2086,Metro Health Institute 1086,Mumbai,Non-Network,General Medicine
+HOSP2087,Green Clinic 1087,Kolkata,Network,Multi-specialty
+HOSP2088,Sunrise Hospital 1088,Delhi,Non-Network,Multi-specialty
+HOSP2089,City Medical Center 1089,Hyderabad,Network,Maternity
+HOSP2090,Care Hospital 1090,Kochi,Network,Orthopedics
+HOSP2091,Unity Health Institute 1091,Ahmedabad,Network,Oncology
+HOSP2092,Metro Health Institute 1092,Mumbai,Non-Network,General Medicine
+HOSP2093,Green Medical Center 1093,Delhi,Network,Cardiology
+HOSP2094,Apollo Health Institute 1094,Hyderabad,Network,Oncology
+HOSP2095,Green Clinic 1095,Mumbai,Non-Network,Cardiology
+HOSP2096,Sunrise Medical Center 1096,Pune,Network,General Medicine
+HOSP2097,Unity Clinic 1097,Bengaluru,Network,Maternity
+HOSP2098,Care Medical Center 1098,Delhi,Network,Cardiology
+HOSP2099,LifeLine Clinic 1099,Jaipur,Network,Orthopedics
+HOSP2100,Apollo Medical Center 1100,Ahmedabad,Network,Cardiology
+HOSP2101,LifeLine Clinic 1101,Ahmedabad,Network,Multi-specialty
+HOSP2102,LifeLine Health Institute 1102,Ahmedabad,Network,Cardiology
+HOSP2103,City Medical Center 1103,Ahmedabad,Non-Network,General Medicine
+HOSP2104,Unity Clinic 1104,Hyderabad,Non-Network,Orthopedics
+HOSP2105,Care Health Institute 1105,Mumbai,Network,Orthopedics
+HOSP2106,Sunrise Clinic 1106,Delhi,Network,Oncology
+HOSP2107,Unity Clinic 1107,Ahmedabad,Network,General Medicine
+HOSP2108,LifeLine Hospital 1108,Kolkata,Network,Cardiology
+HOSP2109,Sunrise Hospital 1109,Hyderabad,Network,Multi-specialty
+HOSP2110,LifeLine Clinic 1110,Kolkata,Network,Orthopedics
+HOSP2111,Sunrise Medical Center 1111,Ahmedabad,Network,General Medicine
+HOSP2112,LifeLine Medical Center 1112,Bengaluru,Non-Network,Cardiology
+HOSP2113,Unity Health Institute 1113,Kolkata,Network,Maternity
+HOSP2114,Sunrise Hospital 1114,Hyderabad,Non-Network,Multi-specialty
+HOSP2115,Sunrise Medical Center 1115,Chennai,Non-Network,Oncology
+HOSP2116,Metro Hospital 1116,Hyderabad,Network,Oncology
+HOSP2117,Apollo Health Institute 1117,Delhi,Network,General Medicine
+HOSP2118,Care Medical Center 1118,Kochi,Network,Cardiology
+HOSP2119,Green Hospital 1119,Pune,Network,Orthopedics
+HOSP2120,Care Clinic 1120,Bengaluru,Network,Maternity
+HOSP2121,Unity Clinic 1121,Kochi,Non-Network,Oncology
+HOSP2122,Apollo Clinic 1122,Kochi,Network,Cardiology
+HOSP2123,LifeLine Medical Center 1123,Jaipur,Network,General Medicine
+HOSP2124,Metro Health Institute 1124,Hyderabad,Non-Network,Oncology
+HOSP2125,City Health Institute 1125,Kochi,Non-Network,Oncology
+HOSP2126,LifeLine Hospital 1126,Kochi,Non-Network,Multi-specialty
+HOSP2127,City Clinic 1127,Hyderabad,Non-Network,Multi-specialty
+HOSP2128,Green Clinic 1128,Pune,Network,Maternity
+HOSP2129,Care Hospital 1129,Delhi,Network,Multi-specialty
+HOSP2130,Sunrise Hospital 1130,Delhi,Network,General Medicine
+HOSP2131,LifeLine Health Institute 1131,Delhi,Network,Maternity
+HOSP2132,City Hospital 1132,Chennai,Network,General Medicine
+HOSP2133,Unity Clinic 1133,Hyderabad,Non-Network,Maternity
+HOSP2134,LifeLine Clinic 1134,Mumbai,Network,Oncology
+HOSP2135,City Health Institute 1135,Hyderabad,Non-Network,Oncology
+HOSP2136,Apollo Health Institute 1136,Pune,Network,Oncology
+HOSP2137,Unity Medical Center 1137,Jaipur,Network,Maternity
+HOSP2138,LifeLine Medical Center 1138,Kolkata,Non-Network,Maternity
+HOSP2139,City Health Institute 1139,Hyderabad,Non-Network,Orthopedics
+HOSP2140,Green Hospital 1140,Delhi,Network,Multi-specialty
+HOSP2141,Apollo Medical Center 1141,Jaipur,Network,Maternity
+HOSP2142,Metro Health Institute 1142,Pune,Network,Maternity
+HOSP2143,Green Health Institute 1143,Pune,Network,Oncology
+HOSP2144,Sunrise Hospital 1144,Hyderabad,Network,Maternity
+HOSP2145,City Medical Center 1145,Jaipur,Network,General Medicine
+HOSP2146,Care Hospital 1146,Pune,Non-Network,Cardiology
+HOSP2147,Care Medical Center 1147,Delhi,Network,Cardiology
+HOSP2148,Metro Hospital 1148,Hyderabad,Network,Orthopedics
+HOSP2149,Apollo Health Institute 1149,Jaipur,Network,Orthopedics
+HOSP2150,LifeLine Medical Center 1150,Bengaluru,Network,Multi-specialty
+HOSP2151,Apollo Clinic 1151,Delhi,Non-Network,General Medicine
+HOSP2152,Green Clinic 1152,Pune,Network,Cardiology
+HOSP2153,LifeLine Hospital 1153,Ahmedabad,Non-Network,Oncology
+HOSP2154,Care Clinic 1154,Mumbai,Network,Maternity
+HOSP2155,Sunrise Health Institute 1155,Kochi,Non-Network,Multi-specialty
+HOSP2156,Metro Hospital 1156,Ahmedabad,Non-Network,General Medicine
+HOSP2157,City Clinic 1157,Hyderabad,Network,Cardiology
+HOSP2158,City Clinic 1158,Mumbai,Non-Network,Cardiology
+HOSP2159,LifeLine Health Institute 1159,Delhi,Network,General Medicine
+HOSP2160,Apollo Clinic 1160,Pune,Network,General Medicine
+HOSP2161,Apollo Hospital 1161,Mumbai,Non-Network,Multi-specialty
+HOSP2162,Green Health Institute 1162,Mumbai,Non-Network,General Medicine
+HOSP2163,LifeLine Health Institute 1163,Kochi,Network,Orthopedics
+HOSP2164,City Health Institute 1164,Ahmedabad,Network,Maternity
+HOSP2165,LifeLine Clinic 1165,Hyderabad,Network,General Medicine
+HOSP2166,City Clinic 1166,Hyderabad,Non-Network,Cardiology
+HOSP2167,Apollo Medical Center 1167,Kolkata,Non-Network,Orthopedics
+HOSP2168,City Hospital 1168,Kolkata,Non-Network,Orthopedics
+HOSP2169,Green Health Institute 1169,Ahmedabad,Network,Cardiology
+HOSP2170,Care Medical Center 1170,Chennai,Network,General Medicine
+HOSP2171,Green Medical Center 1171,Hyderabad,Network,Multi-specialty
+HOSP2172,Care Health Institute 1172,Kolkata,Network,Multi-specialty
+HOSP2173,Apollo Medical Center 1173,Pune,Non-Network,Oncology
+HOSP2174,LifeLine Medical Center 1174,Ahmedabad,Network,Orthopedics
+HOSP2175,Apollo Health Institute 1175,Ahmedabad,Network,Multi-specialty
+HOSP2176,Unity Hospital 1176,Bengaluru,Network,Maternity
+HOSP2177,Sunrise Medical Center 1177,Delhi,Non-Network,Orthopedics
+HOSP2178,Sunrise Hospital 1178,Mumbai,Network,Oncology
+HOSP2179,Unity Clinic 1179,Jaipur,Network,Cardiology
+HOSP2180,Metro Hospital 1180,Pune,Network,Oncology
+HOSP2181,Metro Clinic 1181,Chennai,Network,Orthopedics
+HOSP2182,Care Medical Center 1182,Kolkata,Non-Network,Orthopedics
+HOSP2183,LifeLine Clinic 1183,Mumbai,Network,Oncology
+HOSP2184,Care Hospital 1184,Jaipur,Network,Maternity
+HOSP2185,Green Health Institute 1185,Chennai,Network,Multi-specialty
+HOSP2186,City Medical Center 1186,Jaipur,Network,Oncology
+HOSP2187,LifeLine Medical Center 1187,Ahmedabad,Non-Network,General Medicine
+HOSP2188,Metro Health Institute 1188,Mumbai,Network,Orthopedics
+HOSP2189,Metro Health Institute 1189,Kolkata,Non-Network,Maternity
+HOSP2190,Unity Medical Center 1190,Ahmedabad,Network,Oncology
+HOSP2191,Unity Hospital 1191,Mumbai,Network,General Medicine
+HOSP2192,Green Clinic 1192,Hyderabad,Network,Maternity
+HOSP2193,Apollo Medical Center 1193,Kolkata,Network,Oncology
+HOSP2194,Unity Hospital 1194,Mumbai,Network,Maternity
+HOSP2195,LifeLine Clinic 1195,Kochi,Network,Orthopedics
+HOSP2196,Unity Health Institute 1196,Pune,Network,Oncology
+HOSP2197,City Health Institute 1197,Ahmedabad,Non-Network,Orthopedics
+HOSP2198,Metro Hospital 1198,Ahmedabad,Network,Oncology
+HOSP2199,Unity Health Institute 1199,Jaipur,Network,Oncology

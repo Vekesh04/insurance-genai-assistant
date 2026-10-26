@@ -1,0 +1,11 @@
+[
+  "tests/test_guardrails.py::test_normal_question_allowed",
+  "tests/test_guardrails.py::test_prompt_injection_blocked",
+  "tests/test_rag.py::test_health_secure_maternity_retrieval",
+  "tests/test_rag.py::test_policy_documents_are_chunked",
+  "tests/test_router.py::test_combined_route",
+  "tests/test_router.py::test_rag_route",
+  "tests/test_router.py::test_sql_route",
+  "tests/test_tools.py::test_document_analysis_shape",
+  "tests/test_tools.py::test_known_claim_exists"
+]

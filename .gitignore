@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+.DS_Store
+database/insurance.db
+evaluation/evaluation_report.json

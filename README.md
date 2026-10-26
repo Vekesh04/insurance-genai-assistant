@@ -10,8 +10,6 @@
 
 </div>
 
-> **Publication status:** Project documentation is published. The cleaned source and synthetic dataset are prepared; repository file transfer is currently pending.
-
 ## Overview
 
 An insurance operations assistant that combines structured database lookups with retrieval over policy documents. The workflow selects a SQL, RAG, or combined route according to the question, then returns an evidence-based summary. It supports an offline demonstration without an API key, with optional OpenAI or Ollama generation.
@@ -57,6 +55,10 @@ The included dataset is labeled **synthetic** and is intended for a capstone/dem
 | Seed evaluation questions | 5 |
 
 Local setup produced **150 policy chunks** using the TF-IDF fallback. SentenceTransformers embeddings are optional; TF-IDF is a lexical vector representation, not a trained semantic embedding model. The five-question evaluation set is a small starting point, not proof of production quality.
+
+Large CSV tables are stored losslessly as `.csv.gz`. The database loader reads them directly through pandas; no manual extraction is required. Row counts and table names are unchanged.
+
+Large CSV tables are stored losslessly as `.csv.gz`. The database loader reads them directly through pandas; no manual extraction is required. Row counts and table names are unchanged.
 
 ## Quick start
 
